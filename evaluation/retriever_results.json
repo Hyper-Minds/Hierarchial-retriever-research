@@ -1,0 +1,317 @@
+{
+  "results": [
+    {
+      "query": "What was the legal issue decided by the Supreme Court regarding the starting point of limitation for filing objections to an arbitral award under the Arbitration Act, 1940?",
+      "relevant_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740"
+      ],
+      "retrieved_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba12c-342a-78f0-8696-cb2afee77905",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303",
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Which specific provision of the Limitation Act, 1963 governs the time period for filing objections to an arbitral award, and what is the prescribed limitation period?",
+      "relevant_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740"
+      ],
+      "retrieved_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba114-5279-701c-b88f-25fc4429fe22",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba12c-342a-78f0-8696-cb2afee77905",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba12e-74f5-7171-815b-73c1377c1e59"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "On which date did the Supreme Court hold that the respondent became aware of the arbitral award for the purpose of calculating limitation?",
+      "relevant_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740"
+      ],
+      "retrieved_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba12c-342a-78f0-8696-cb2afee77905",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303",
+        "019ba114-5279-701c-b88f-25fc4429fe22"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Why did the Supreme Court conclude that the application filed under Section 17 of the Arbitration Act, 1940 was not premature in this case?",
+      "relevant_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740"
+      ],
+      "retrieved_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba114-5279-701c-b88f-25fc4429fe22",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba12c-f4bb-7566-a43a-b2bef5652a37"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "How has the Supreme Court consistently interpreted the expression “notice of the filing of the award” under Section 14(2) of the Arbitration Act, 1940 across multiple decisions, and does it mandate a formal written notice in all cases?",
+      "relevant_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740"
+      ],
+      "retrieved_docs_id": [
+        "019ba12b-e91f-79ff-8f13-f2eb74286740",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba12c-342a-78f0-8696-cb2afee77905",
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba114-5279-701c-b88f-25fc4429fe22",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303",
+        "019ba132-3b63-7859-8f8e-335e5b0e2d98",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba12b-812d-76f1-8cee-3479d4c16b49"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Supreme Court upholding the order passed by the High Court",
+      "relevant_docs_id": [
+        "019ba112-5c65-7a74-bff0-180c7e0c7ea9",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba0fd-3abb-7192-807b-977c12563703",
+        "019ba0f9-3bbf-728c-b464-94436469da3d"
+      ],
+      "retrieved_docs_id": [
+        "019ba12b-2f80-7b1c-b9c3-72328ebd75eb",
+        "019ba132-3b63-7859-8f8e-335e5b0e2d98",
+        "019ba12d-97c3-7b07-9f98-8368cb68131d",
+        "019ba0ff-c6ff-7b92-a0cc-d22a5542157c",
+        "019ba0d1-5f7f-7714-8f68-7b07abc0f0d9",
+        "019ba107-c07b-7bd2-8398-ce5b4b505f76",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba0fd-3abb-7192-807b-977c12563703",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba12c-342a-78f0-8696-cb2afee77905"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 0.25
+    },
+    {
+      "query": "The accused were charged under Sections 302, 323, and 324 read with Section 34 of the Indian Penal Code (IPC) for their alleged role ",
+      "relevant_docs_id": [
+        "019ba0fd-3abb-7192-807b-977c12563703"
+      ],
+      "retrieved_docs_id": [
+        "019ba12f-3701-75b8-a934-070aee7e4476",
+        "019ba0fd-3abb-7192-807b-977c12563703",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba126-a23e-7063-9004-8e1491e35871",
+        "019ba12d-444f-73b3-8c02-1749cdd76317",
+        "019ba0ff-c6ff-7b92-a0cc-d22a5542157c",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba0fa-3bbb-7f22-9341-2d62ab1d47b6",
+        "019ba117-e493-7cb7-8b59-4feac3eb89d5"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "## Final Decision: The Supreme Court upheld the judgment of the ITAT and the High Court, holding that the reduction in share capital is indeed covered under section 2(47).",
+      "relevant_docs_id": [
+        "019ba0f9-3bbf-728c-b464-94436469da3d"
+      ],
+      "retrieved_docs_id": [
+        "019ba0f9-3bbf-728c-b464-94436469da3d",
+        "019ba132-3b63-7859-8f8e-335e5b0e2d98",
+        "019ba10a-70e8-7ca7-9015-4f856d1343dc",
+        "019ba12b-812d-76f1-8cee-3479d4c16b49",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba12c-f4bb-7566-a43a-b2bef5652a37",
+        "019ba114-5279-701c-b88f-25fc4429fe22",
+        "019ba130-7cfb-727c-9560-1e95ac835179",
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba12c-342a-78f0-8696-cb2afee77905"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Can the High Court quash criminal proceedings, invoking extraordinary power under Article 226 ",
+      "relevant_docs_id": [
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f"
+      ],
+      "retrieved_docs_id": [
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba126-a23e-7063-9004-8e1491e35871",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba130-c8fa-7a11-9598-51648f5110db",
+        "019ba131-97be-7e74-b8c9-dbe3573122ba",
+        "019ba12f-3701-75b8-a934-070aee7e4476",
+        "019ba130-7cfb-727c-9560-1e95ac835179"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Which statutory provision governed the validity of a complaint filed through a power-of-attorney holder in the cheque dishonour case AND which provision of the CrPC barred the Magistrate from taking cognizance of an offence under Section 186 IPC without a written complaint by a public servant?",
+      "relevant_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9"
+      ],
+      "retrieved_docs_id": [
+        "019ba100-891c-716f-844d-a43603cda940",
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba12d-444f-73b3-8c02-1749cdd76317",
+        "019ba117-e493-7cb7-8b59-4feac3eb89d5",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba12f-3701-75b8-a934-070aee7e4476",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba119-8344-7f90-9d37-2329b3a82332"
+      ],
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Which Supreme Court precedent laid down the guidelines for maintainability of a complaint under Section 138 of the NI Act by an authorised representative AND which Supreme Court precedent was relied upon for quashing FIRs that do not disclose the essential ingredients of an offence under Sections 353/186 IPC?",
+      "relevant_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9"
+      ],
+      "retrieved_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba0ff-c6ff-7b92-a0cc-d22a5542157c",
+        "019ba12e-2c8d-7edb-a258-fd7f9d418fc5",
+        "019ba126-a23e-7063-9004-8e1491e35871",
+        "019ba12a-7957-7db9-b681-17516acd30e4",
+        "019ba100-891c-716f-844d-a43603cda940",
+        "019ba117-e493-7cb7-8b59-4feac3eb89d5"
+      ],
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Which court restored the quashed criminal complaint under the Negotiable Instruments Act to the trial Magistrate AND which court was held to have illegally taken cognizance of offences under Sections 353 and 186 IPC due to absence of statutory pre-conditions under Sections 195 and 155 of the CrPC?",
+      "relevant_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9"
+      ],
+      "retrieved_docs_id": [
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba100-891c-716f-844d-a43603cda940",
+        "019ba12d-444f-73b3-8c02-1749cdd76317",
+        "019ba12f-3701-75b8-a934-070aee7e4476",
+        "019ba126-a23e-7063-9004-8e1491e35871",
+        "019ba131-97be-7e74-b8c9-dbe3573122ba",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba117-e493-7cb7-8b59-4feac3eb89d5",
+        "019ba12d-d434-7a45-b21b-3b85e6876359"
+      ],
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "How did the Supreme Court assess the legality of initiation of criminal proceedings in the cheque dishonour case through a power-of-attorney holder under Section 138 NI Act AND the legality of cognizance taken by the Magistrate in the FIR under Sections 353 and 186 IPC in the absence of statutory pre-conditions under the CrPC?",
+      "relevant_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9"
+      ],
+      "retrieved_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba100-891c-716f-844d-a43603cda940",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba117-e493-7cb7-8b59-4feac3eb89d5",
+        "019ba0ff-c6ff-7b92-a0cc-d22a5542157c",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba12d-444f-73b3-8c02-1749cdd76317",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba12c-f4bb-7566-a43a-b2bef5652a37"
+      ],
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "How did the Supreme Court distinguish between: 1. procedurally invalid prosecution despite existence of an FIR in the Section 353/186 IPC case, and 2. procedurally valid prosecution despite challenge to complainant’s authority in the Section 138 NI Act case,",
+      "relevant_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9"
+      ],
+      "retrieved_docs_id": [
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba0ff-c6ff-7b92-a0cc-d22a5542157c",
+        "019ba0d6-e528-718d-a908-bd2ccb9ccc61",
+        "019ba126-a23e-7063-9004-8e1491e35871",
+        "019ba100-891c-716f-844d-a43603cda940",
+        "019ba0db-bd4b-7c3f-95af-958c1caf2d91",
+        "019ba12d-444f-73b3-8c02-1749cdd76317",
+        "019ba129-98c6-799e-81e2-92738e387aba"
+      ],
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Explain the common procedural principle applied by the Court in: quashing the FIR and cognizance under Sections 353 and 186 IPC in and restoring the Section 138 NI Act complaint filed through a power-of-attorney holder",
+      "relevant_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9"
+      ],
+      "retrieved_docs_id": [
+        "019ba0cf-ddf3-762b-9992-28180bee7467",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba100-891c-716f-844d-a43603cda940",
+        "019ba0ff-c6ff-7b92-a0cc-d22a5542157c",
+        "019ba12c-f4bb-7566-a43a-b2bef5652a37",
+        "019ba12d-444f-73b3-8c02-1749cdd76317",
+        "019ba131-5ec0-772d-a948-7b88531751a1",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303"
+      ],
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0
+    },
+    {
+      "average_precision_at_10": 0.13999999999999999,
+      "average_recall_at_10": 0.95
+    }
+  ]
+}

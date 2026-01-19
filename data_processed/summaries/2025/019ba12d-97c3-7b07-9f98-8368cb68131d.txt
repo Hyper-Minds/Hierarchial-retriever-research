@@ -1,0 +1,34 @@
+## Court Name: Supreme Court of India
+
+## Petitioner Name(s): Geetha V.M. & Ors.
+
+## Respondent Name(s): Rethnasenan K. & Ors.
+
+## Case Background: The case revolves around the transfer of employees from the Directorate of Medical Education (DME) to the Department of Health Services (DHS). The employees were absorbed in DME under a policy decision of the Government of Kerala, which abolished the dual control system and bifurcated DHS and DME.
+
+## Petitioner Arguments: The petitioners argued that their seniority should be maintained as per Rule 27(a) and 27(c) of Part II of the Kerala Service and Subordinate Services Rules (KS&SS Rules), despite being transferred by way of absorption. They contended that the proviso to Rule 27(a) does not apply in cases of transfer by way of absorption made by the Government in public interest.
+
+## Respondent Argument: The respondents argued that the seniority of the employees should be determined based on their date of joining at the new post, and not on their previous service. They relied on the proviso to Rule 27(a), which deals with transfers on request or mutual requests.
+
+## Issues discussed in Court:
+
+* Interpretation of Rule 8 of Appendix I of G.O. dated 25.10.2008
+* Meaning of absorption and transfer by way of absorption
+* Seniority of employees absorbed in DME
+
+## Final Decision: The Supreme Court allowed the appeals, holding that the seniority of the absorbed employees should be maintained as per Rule 27(a) and 27(c) of Part II of KS&SS Rules.
+
+## Court's Reasoning:
+
+* The court held that the transfer by way of absorption was not a case of transfer on request or mutual request
+* The court distinguished between transfer on request and transfer in public interest, and held that the proviso to Rule 27(a) does not apply in cases of transfer by way of absorption made by the Government in public interest.
+* The court relied on the clarificatory letter dated 24.04.2010 and the definition of absorption as given in P. Ramanatha Aiyar's Advanced Law Lexicon.
+
+## List of Important Precedents Cited:
+
+* Kartar Singh v. State of Punjab (1989 SCC OnLine P&H 482)
+
+## List of Acts:
+
+* Kerala Service and Subordinate Services Rules (KS&SS Rules), 1959
+* Government Order (P) No. 548/2008/H&FWD dated 25.10.2008

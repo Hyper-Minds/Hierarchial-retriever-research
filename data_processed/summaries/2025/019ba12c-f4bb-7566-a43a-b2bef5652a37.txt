@@ -1,0 +1,33 @@
+## Court Name : Supreme Court of India
+## Petitioner Name(s) : Mohammed Enterprises (Tanzania) Ltd.
+## Respondent Name(s) : Farooq Ali Khan & Ors.
+
+## Case Background: 
+The case revolves around the Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code, 2016. The petitioner, Mohammed Enterprises (Tanzania) Ltd., is challenging the High Court's decision to interdict CIRP proceedings.
+
+## Petitioner Arguments:
+The petitioner argues that the High Court erred in entertaining the writ petition, particularly due to delay and laches. They also argue that the High Court should have noted that the Insolvency and Bankruptcy Code is a complete code with sufficient checks and balances, remedial avenues, and appeals.
+
+## Respondent Argument:
+The respondent, Farooq Ali Khan & Ors., argues that the High Court was justified in interdicting CIRP proceedings as principles of natural justice were violated. They also argue that they had availed statutory remedies under the Code by filing interlocutory applications seeking similar relief.
+
+## Issues discussed in Court:
+- Jurisdiction and power of the Adjudicating Authority under Section 60(5)(c)
+- Principles of natural justice
+- Delay and laches
+- Sufficiency of checks and balances in the Insolvency and Bankruptcy Code
+
+## Final Decision:
+The Supreme Court allows the appeals and sets aside the final judgment and order passed by the High Court.
+
+## Court's Reasoning:
+The court holds that the High Court committed an error in entertaining the writ petition due to delay and laches. They also note that the Insolvency and Bankruptcy Code is a complete code with sufficient checks and balances, remedial avenues, and appeals.
+
+## List of Important Precedents Cited:
+- CoC of KSK Mahanadai Power Company Limited v. M/s UP Power Corporation Limited
+- Whirlpool Corporation v. Registrar of Trade Marks, Mumbai and Ors.
+- Committee of Creditors of Essar Steel India Ltd. v. Satish Kumar Gupta
+- Gujarat Urja Vikas Nigam Limited v. Amit Gupta
+
+## List of Acts:
+- Insolvency and Bankruptcy Code, 2016

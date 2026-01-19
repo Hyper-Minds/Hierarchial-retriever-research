@@ -1,0 +1,11 @@
+## Court Name: Supreme Court of India
+## Petitioner Name(s): Krishna Devi @ Sabitri Devi (Rani)
+## Respondent Name(s): Union of India & Ors.
+## Case Background: The petitioner, Krishna Devi @ Sabitri Devi (Rani), filed an application under Section 17 of the Arbitration Act, 1940, to pronounce judgment according to the award made by her husband in favor of the respondent. The respondent had not cleared its dues towards the arbitrator's fees, and the petitioner sought a direction to clear its part of the fees.
+## Petitioner Arguments: The petitioner argued that the limitation for filing objections to the award is 30 days, and is governed by Article 119(b) of the First Schedule to the Limitation Act, 1963. The trigger for the limitation to start running specified therein is the date of service of notice of the filing of the award.
+## Respondent Argument: The respondent argued that both the High Court and the District Court were correct in taking the starting point of limitation to be on 18.11.2022, which was the date when the formal notice of the award was received by the respondent.
+## Issues discussed in Court: Whether the time for filing an application under Section 17, Arbitration Act, 1940 commences when the party seeking to challenge the award receives a formal notice of the making of the award, or from the date such party is aware of the existence of the award.
+## Final Decision: The Supreme Court allowed the appeal and set aside the order dated 27.03.2024 passed by the High Court in Civil Revision Petition No. 138/2022.
+## Court's Reasoning: The court held that the limitation for filing objections to the award is 30 days, and is governed by Article 119(b) of the First Schedule to the Limitation Act, 1963. The trigger for the limitation to start running specified therein is the date of service of notice of the filing of the award.
+## List of Important Precedents Cited: Nilkantha Sidramappa Ningashetti v. Kashinath Somanna Ningashetti, Ch. Ramalinga Reddy v. Superintending Engineer, Deo Narain Choudhury v. Shree Narain Choudhury
+## List of Acts: Arbitration Act, 1940; Limitation Act, 1963

@@ -1,0 +1,26 @@
+## Court Name : "Supreme Court of India"
+## Petitioner Name(s) : Kim Wansoo
+## Respondent Name(s) : State of Uttar Pradesh & Ors.
+## Case Background: 
+The case revolves around a criminal appeal filed by Kim Wansoo, a foreign national and Project Manager for Hyundai Engineering & Construction India LLP, against the registration of an FIR under Sections 406, 420, 323, 504, 506 and 120-B IPC against him and others. The FIR was registered after allegations were made that YSSS India Construction (a subsidiary company of MS HUNDAI MOTOR INDIA) defaulted payment to the complainant's company.
+
+## Petitioner Arguments: 
+Kim Wansoo argued that the FIR did not disclose commission of offence(s) as alleged without anything being added or subtracted from the recitals thereof. He also claimed that the allegations made in the FIR were vague and did not make out a case against him. Furthermore, he argued that non-interference by refusing to exercise the power to quash the FIR and further proceedings based thereon would result in miscarriage of justice.
+
+## Respondent Argument: 
+The State of Uttar Pradesh & Ors. argued that the High Court had correctly refused to quash the FIR as it was registered under Sections 406, 420, 323, 504, 506 and 120-B IPC against the accused, including the appellant-foreign national.
+
+## Issues discussed in Court: 
+The court discussed the power of the High Court to quash criminal proceedings, invoking extraordinary power under Article 226 of the Constitution of India. The court also considered whether the allegations made in the FIR disclosed a cognizable offence or not.
+
+## Final Decision: 
+The Supreme Court allowed the appeal and set aside the judgment dated 26.08.2020 in Criminal Misc. Writ Petition No.8063 of 2020. As a result, the subject FIR No.64/2020 registered at Police Station, Sadar Bazar, District Meerut and all further proceedings pursuant thereto, qua the appellant stand quashed and set aside.
+
+## Court's Reasoning: 
+The court held that the High Court erred in refusing to exercise the extraordinary power under Article 226 to quash the FIR. The court observed that the allegations made in the FIR did not disclose commission of offence(s) as alleged without anything being added or subtracted from the recitals thereof.
+
+## List of Important Precedents Cited: 
+State of Haryana and Ors. v. Bhajan Lal and Ors., State of A.P. v. Golconda Linga Swamy, Pepsi Foods Ltd. and Anr. v. Special Judicial Magistrate and Ors.
+
+## List of Acts: 
+Constitution of India; Code of Criminal Procedure, 1973; Penal Code, 1860.

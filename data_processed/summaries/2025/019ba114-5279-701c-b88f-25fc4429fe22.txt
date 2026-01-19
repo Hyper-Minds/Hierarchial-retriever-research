@@ -1,0 +1,26 @@
+## Court Name: Supreme Court of India
+
+## Petitioner Name(s): K.R. Suresh
+
+## Respondent Name(s): R. Poornima & Ors.
+
+## Case Background: The case revolves around a dispute between the petitioner, K.R. Suresh, and the respondents, R. Poornima & Ors., regarding the forfeiture of advance money paid by the petitioner to the respondents.
+
+## Petitioner Arguments: The petitioner argued that the respondents had forfeited the advance money without justification and that they were entitled to a refund under Section 22 of the 1963 Act.
+
+## Respondent Argument: The respondents argued that the petitioner had not claimed an alternative prayer for refund of earnest money in the suit and that the court could not grant such relief suo moto.
+
+## Issues discussed in Court: The court discussed the interpretation of Section 22 of the 1963 Act, particularly Sub-section (2), and whether it is mandatory or directory in nature.
+
+## Final Decision: The Supreme Court dismissed the appeal, holding that the respondents had justified the forfeiture of advance money and that the petitioner was not entitled to a refund under Section 22 of the 1963 Act.
+
+## Court's Reasoning: The court relied on precedents such as Desh Raj v. Rohtash Singh and Kamal Kumar v. Premlata Joshi, which established that the relief of refund of earnest money must be specifically claimed in the plaint or by way of an amendment.
+
+## List of Important Precedents Cited:
+
+- Desh Raj v. Rohtash Singh
+- Kamal Kumar v. Premlata Joshi
+
+## List of Acts: 
+
+- 1963 Act

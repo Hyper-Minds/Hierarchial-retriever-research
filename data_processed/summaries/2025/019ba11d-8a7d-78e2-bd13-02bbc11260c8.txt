@@ -1,0 +1,19 @@
+## Court Name : Supreme Court of India
+## Petitioner Name(s) : Santosh Devi 
+## Respondent Name(s) : Sunder 
+
+## Case Background: The case revolves around a dispute over the ownership of a property, with the petitioner, Santosh Devi, claiming that she was fraudulently forced to sign a sale deed in favor of the respondent, Sunder. She filed a suit seeking cancellation of the sale deed on the ground of fraud.
+
+## Petitioner Arguments : The petitioner argued that she was not aware of the contents of the sale deed and did not consent to its execution. She claimed that the respondent had played a fraudulent game with her to get her signature on the sale deed.
+
+## Respondent Argument : The respondent argued that he had purchased the property in good faith and had no knowledge of any fraud being played upon Santosh Devi. He also claimed that the petitioner had failed to file the suit within the prescribed time limit, citing the limitation provisions under the Limitation Act, 1963.
+
+## Issues discussed in Court: The court discussed several issues, including whether the petitioner had a valid cause of action, whether the respondent was liable for fraud, and whether the petitioner had filed the suit within the prescribed time limit.
+
+## Final Decision : The Supreme Court dismissed the Special Leave Petition (Civil) No. 12658 of 2025, affirming the judgment of the High Court of Punjab & Haryana at Chandigarh.
+
+## Court's Reasoning : The court held that the petitioner had failed to prove the fraud as alleged, and that she should have been kept out of knowledge of her right to sue by means of fraud. The court also noted that the respondent had not concealed any document necessary to establish his title to the property.
+
+## List of Important Precedents Cited : Janardhanam Prasad v. Ramdas (2007) 2 LJR 783; Prem Singh and Ors. v. Birbal and Ors. [2006] Supp. 1 SCR 692
+
+## List of Acts : Code of Civil Procedure, 1908; Limitation Act, 1963

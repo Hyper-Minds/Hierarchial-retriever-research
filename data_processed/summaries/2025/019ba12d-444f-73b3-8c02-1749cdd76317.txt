@@ -1,0 +1,29 @@
+## Court Name: Supreme Court of India
+## Petitioner Name(s): Omi @ Omkar Rathore & Anr.
+## Respondent Name(s): The State of Madhya Pradesh & Anr.
+
+## Case Background:
+The petitioners, Omi @ Omkar Rathore and others, have filed a case against the State of Madhya Pradesh and others. The background of the case is that Pankaj Sikarwar was murdered in the area of police station Hajira on 20.02.18. The police had lodged an FIR and charge-sheeted several accused persons, but the petitioners claim that they were not implicated in the crime.
+
+## Petitioner Arguments:
+The petitioners argue that the trial court erred in not summoning them as accused persons despite being named in the FIR. They claim that the closure report filed by the police is irrelevant and that the trial court has undoubted jurisdiction to add any person not being the accused before it to face the trial.
+
+## Respondent Argument:
+The respondent argues that the petitioners were not implicated in the crime and that there is no evidence against them. They also argue that the trial court's decision to summon the petitioners as accused persons was incorrect.
+
+## Issues discussed in Court:
+The issues discussed in court include the power of the trial court under Section 319 of the CrPC, the relevance of the closure report, and the jurisdiction of the court to add new accused persons.
+
+## Final Decision:
+The Supreme Court has dismissed the petition and held that the trial court's decision to summon the petitioners as accused persons was correct. The Court cited two decisions, S. Mohammed Ispahani v. Yogendra Chandak (2017) 16 SCC 226 and another case, in which it observed that the trial court can add any person not being the accused before it to face the trial.
+
+## Court's Reasoning:
+The Court reasoned that the power of the trial court under Section 319 of the CrPC is not controlled or governed by naming or not naming of the person concerned in the FIR. The expression "any person not being the accused" clearly covers any person who is not being tried already by the Court.
+
+## List of Important Precedents Cited:
+- S. Mohammed Ispahani v. Yogendra Chandak (2017) 16 SCC 226
+- Another case (not specified)
+
+## List of Acts:
+- CrPC (Code of Criminal Procedure)
+- IPC (Indian Penal Code)

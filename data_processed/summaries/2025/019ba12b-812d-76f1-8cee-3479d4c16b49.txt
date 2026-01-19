@@ -1,0 +1,39 @@
+## Court Name:
+Supreme Court of India
+
+## Petitioner Name(s):
+Anjuman Ishaat- E- Taleem Trust, M. Ramachandran
+
+## Respondent Name(s):
+The State of Maharashtra and Others
+
+## Case Background: 
+The case revolves around the applicability of the Right to Education (RTE) Act to minority schools in Maharashtra. The petitioner, Anjuman Ishaat- E- Taleem Trust, challenged the provision of Section 12(1)(c) of the RTE Act, which exempts aided minority educational institutions from certain provisions of the Act.
+
+## Petitioner Arguments:
+The petitioner argued that the exemption granted to minority schools under Section 12(1)(c) is unconstitutional and violates Article 30 of the Constitution. They also contended that the Teachers' Eligibility Test (TET) is a necessary qualification for teachers in all schools, including minority institutions.
+
+## Respondent Argument:
+The respondent argued that the exemption granted to minority schools is constitutional and does not violate their rights under Article 30 of the Constitution. They also claimed that the TET is not applicable to in-service teachers who were recruited prior to the enactment of the RTE Act.
+
+## Issues discussed in Court:
+
+* Applicability of Section 12(1)(c) of the RTE Act to minority schools
+* Necessity of Teachers' Eligibility Test (TET) for all schools, including minority institutions
+* Exemption granted to aided minority educational institutions from certain provisions of the RTE Act
+* Impact of non-consideration of Article 29(2) of the Constitution on the declaration made in Pramati Educational and Cultural Trust
+
+## Final Decision:
+The Supreme Court directed that Civil Appeal Nos. 1364 - 1367, 1385 -1386 
+and 6364 of 2025 be placed before the Hon'ble Chief Justice of India for appropriate directions.
+
+## Court's Reasoning:
+The court held that the TET is a necessary qualification for teachers in all schools, including minority institutions. They also found that the exemption granted to aided minority educational institutions under Section 12(1)(c) of the RTE Act is unconstitutional and violates Article 30 of the Constitution.
+
+## List of Important Precedents Cited:
+M. Ramachandran v. Govind Ballabh, K. Narayanan v. State of Karnataka
+
+## List of Acts:
+
+* Right to Education (RTE) Act
+* Indian Constitution (Article 30, Article 29(2))

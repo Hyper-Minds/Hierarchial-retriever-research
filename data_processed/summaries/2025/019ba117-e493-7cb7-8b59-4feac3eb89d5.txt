@@ -1,0 +1,28 @@
+## Court Name: Supreme Court of India
+## Petitioner Name(s): Aman Bhatia
+## Respondent Name(s): State (GNCT of Delhi)
+## Case Background: The petitioner, Aman Bhatia, was convicted under the Prevention of Corruption Act, 1988, for allegedly demanding and accepting a bribe from a stamp vendor. He appealed against the conviction.
+
+## Petitioner Arguments: 
+The petitioner argued that the prosecution failed to prove the demand for illegal gratification and acceptance thereof beyond reasonable doubt. The petitioner also argued that the definition of "public servant" should be given a wide interpretation to advance the object underlying the statute.
+
+## Respondent Argument:
+The respondent argued that the prosecution had established the case against the petitioner beyond reasonable doubt, and that the conviction was correct.
+
+## Issues discussed in Court: 
+- Whether the prosecution proved the demand for illegal gratification and acceptance thereof beyond reasonable doubt.
+- The interpretation of the definition of "public servant" under Section 2(c)(i) of the Prevention of Corruption Act, 1988.
+
+## Final Decision:
+The Supreme Court allowed the appeal and set aside the conviction and sentence of the accused.
+
+## Court's Reasoning: 
+The court held that mere recovery of tainted money was insufficient to establish the charges against an accused under the Prevention of Corruption Act. The court also emphasized the importance of proving demand for illegal gratification and acceptance thereof beyond reasonable doubt. Furthermore, the court interpreted the definition of "public servant" as defined under Section 2(c)(i) of the Act in a wide sense to advance the object underlying the statute.
+
+## List of Important Precedents Cited: 
+- C.K. Damodaran Nair v. Govt. of India (1997) 9 SCC 477
+- Neeraj Dutta v. State (Government of NCT of Delhi), (2023) 4 SCC 731
+- P. Satyanarayana Murthy v. State of A.P., (2015) 10 SCC 152
+
+## List of Acts: 
+- Prevention of Corruption Act, 1988

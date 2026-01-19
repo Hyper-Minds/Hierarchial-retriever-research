@@ -1,0 +1,12 @@
+## Court Name : State (NCT) of Delhi
+## Petitioner Name(s): State (NCT) of Delhi 
+## Respondent Name(s): Rajeev Sharma
+## Case Background: A case was filed against the respondent, accused for the offence punishable under Section 3,4 and 5 of the Official Secrets Act, 1923 (hereinafter referred as “the Act”) and the investigation was taken up by the Special Cell, Delhi Police. The Respondent - Accused was arrested on 14.09.2020.
+## Petitioner Arguments: 
+## Respondent Argument:
+## Issues discussed in Court: Whether the term imprisonment for a term “not less than 10 years” in clause (i) of the proviso (a) to s.167(2) Cr.P.C would include an offence where the punishment of 14 years of imprisonment is prescribed, but no minimum period of imprisonment is prescribed for such offence?
+## Final Decision: Appeal dismissed.
+## Court's Reasoning: The court followed the majority decision of three Judge Bench in Rakesh Kumar Paul vs. State of Assam and held that the term imprisonment for a term “not less than 10 years” in clause (i) of the proviso (a) to s.167(2) Cr.P.C would include an offence where the punishment of 14 years of imprisonment is prescribed, but no minimum period of imprisonment is prescribed for such offence.
+## List of Important Precedents Cited: Rakesh Kumar Paul vs. State of Assam [2017] 8 SCR 785 
+## List of Acts:
+Official Secrets Act, 1923; Penal Code, 1860; Code of Criminal Procedure, 1973

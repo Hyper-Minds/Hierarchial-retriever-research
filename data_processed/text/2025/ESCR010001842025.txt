@@ -1,0 +1,441 @@
+[2025] 6 S.C.R. 156 : 2025 INSC 627
+Santosh Devi 
+v. 
+Sunder
+(Special Leave Petition (Civil) No. 12658 of 2025)
+02 May 2025
+[J.B. Pardiwala* and R. Mahadevan, JJ.]
+Issue for Consideration
+Whether the High Court rightly dismissed the second appeal filed 
+by the petitioner herein (plaintiff) affirming the judgment passed 
+by the First Appellate Court which had upheld the decree passed 
+by the trial court dismissing the suit on the ground of limitation.
+Headnotes†
+Limitation Act, 1963 – s.17 – Effect of fraud or mistake – Code 
+of Civil Procedure, 1908 – Or.VII, r.6 – Grounds of exemption 
+from limitation law – Petitioner filed suit seeking cancellation 
+of sale deed on the ground that fraud was played upon her to 
+sign the sale deed and thereby transfer the subject property – 
+Suit dismissed on the ground of limitation – Challenge to:
+Held: The initial onus was on the plaintiff who had challenged 
+the sale deed – Fraud was alleged as a ground upon which the 
+plaintiff justified the institution of the suit long after the expiry of 
+the limitation period – Further, the requirement of Or.VII, r.6, CPC 
+is also clear – The plaint should show the ground upon which the 
+exemption from the normal period of limitation is claimed – It is not 
+the mere use of general words such as ‘fraud’ that can serve as the 
+foundation for the plea – Such expressions are quite ineffective to 
+give the legal basis in the absence of particular statements of fact 
+which alone can furnish the requisite basis for the action – Thus, 
+the fraud relating to the sale transaction as alleged itself would 
+not help the plaintiff in getting over the plea of limitation in this 
+case – Under/s.17, Limitation Act, the plaintiff should have been 
+kept out of knowledge of his right to sue by means of fraud – The 
+alleged fraud relating to the sale transaction itself has nothing to 
+do with the question viz., that the plaintiff had been kept out of 
+knowledge of her right to file a suit for cancellation of the sale 
+deed because of fraud – High Court committed no error in passing 
+the impugned judgment. [Paras 17-19, 21, 22]
+* Author
+[2025] 6 S.C.R. 
+157
+Santosh Devi v. Sunder
+Case Law Cited
+Janardhanam Prasad v. Ramdas (2007) 2 LJR 783; Prem Singh 
+and Ors. v. Birbal and Ors. [2006] Supp. 1 SCR 692 : (2006) 5 
+SCC 353 – referred to.
+Walling Ford v. Mutul Society (1880) 5 A.C. 685 – referred to.
+List of Acts
+Code of Civil Procedure, 1908; Limitation Act, 1963.
+List of Keywords
+Section 17 of Limitation Act, 1963; Order VII Rule 6 of Code of 
+Civil Procedure, 1908; Fraud; Suit for cancellation of sale deed; 
+Dismissal of suit; Limitation; Exemption from the normal period 
+of limitation; Kept out of knowledge of right to sue; By means of 
+fraud; Concurrent findings; Onus of proof; Registered document; 
+Presumed to be genuine.
+Case Arising From
+EXTRAORDINARY APPELLATE JURISDICTION : Special Leave 
+Petition (Civil) No. 12658 of 2025
+From the Judgment and Order dated 23.07.2024 of the High Court 
+of Punjab & Haryana at Chandigarh in RSA No. 520 of 2020
+Appearances for Parties
+Advs. for the Petitioner:
+Karan Kapoor, Manik Kapoor, Ms. Srishti Singla, Shrey Kapoor.
+Judgment / Order of the Supreme Court
+Order
+J.B. Pardiwala, J. 
+1.	
+Delay condoned in filing and refiling the SLP.
+2.	
+This petition arises from the judgment and order passed by the 
+High Court of Punjab and Haryana at Chandigarh dated 23.7.2024 
+in Regular Second Appeal No. 520/2020 by which the High Court 
+dismissed the second appeal preferred by the petitioner herein and 
+158
+Supreme Court Reports
+thereby affirmed the judgment and order passed by the First Appellate 
+Court affirming the judgment and decree passed by the trial court 
+dismissing the suit.
+3.	
+The petitioner is before us against the concurrent findings of three 
+Courts.
+4.	
+It appears from the materials on record that the petitioner herein 
+instituted Civil Suit No.310-RBT of 2012 in the Court of the Additional 
+Civil Judge (SD), Ganaur for declaration with consequential, 
+mandatory as well as permanent injunction.
+5.	
+In the plaint, the petitioner prayed for the following reliefs:-
+“It is, therefore, prayed that a decree for declaration may 
+kindly be granted declaring the sale deed no.638 dated 
+26.05.2008 as well as mutation no. 5340 dt.29.08.2008 
+be set aside to the extent of 1/2 share executed in favour 
+of the defendant Sunder, who fraudulently, forcibly get 
+executed the sale dead and sanctioned mutation to the 
+extent of 1/2 share of the suit land in his favour.
+It is, therefore further prayed that a decree for mandatory 
+injunction may kindly be passed in favour of the plaintiff 
+against the defendant directing the defendant to get 
+executed and registered the sale deed as well as rectified 
+the mutation no. 5340 dt. 29.08.2008 to the extent of ½ 
+share of the land detailed in para no.2 of the plaint in 
+favour of the plaintiff, which he got fraudulently, wrongly, 
+illegally got registered in his own favour against the sale 
+consideration already paid by the plaintiff to the vender, in 
+favour of the plaintiff without getting any sale consideration 
+and stamp and registration at his own risk and costs. 
+It is further prayed that a decree for permanent injunction 
+may kindly be passed in favour of the plaintiff against the 
+defendant restraining him from alienating any art of the suit 
+land detailed in para no.2 of the plaint, under the grab of 
+wrong illegal sale deed no. 638 dt. 26.05.08 and mutation 
+no. 5340 dt. 29.08.08 forcibly and illegally to any person 
+for all time to come.”
+6.	
+Insofar as the averments regarding the cause of action as pleaded 
+in the plaint is concerned, the same reads thus:-
+[2025] 6 S.C.R. 
+159
+Santosh Devi v. Sunder
+“That the cause of action firstly secured to the plaintiff only 
+on 26.05.2008, the date of execution and registration of 
+the sale deed to the extent of ½ share of land in favour of 
+defendant out of the suit land. Secondly in March, 2010 
+when the plaintiff came to know about the above wrong, 
+illegal sale deed to the extent of ½ share in favour of the 
+defendant, and then on 19.09.2012 the date of serving the 
+legal notice through registered post upon the defendant, 
+and lastly on 08.10.2012, the date of last refusal by the 
+defendant to accede the genuine request of the plaintiff.”
+7.	
+The trial court framed the following issues for its consideration:-
+“1. Whether the plaintiff is entitled for a decree of declaration 
+that the sale deed No.638 dated 26.5.2008 and its mutation 
+No.5340 dated 29.8.2008 are illegal, null and void to the 
+extent of 1⁄2 share as prayed for ? OPP.
+2. Whether the defendant is liable to be directed to get 
+executed and registered the sale deed as well as rectified 
+the mutation No.5340 dated 29.8.2006(sic) to the extent 
+of 1⁄2 share of the land detailed in para No.2 of the plaint 
+in favour of plaintiff, as prayed for ? OPP.
+3. Whether the plaintiff is entitled to the relief of permanent 
+injunction as prayed for ? OPP.
+4. Whether the suit filed by the plaintiff is not maintainable 
+in the present form ? OPD.
+5. Whether the plaintiff has no cause of action and locus-
+standi to file the present suit ? OPD.
+6. Whether the plaintiff has not come to the court with 
+clean hands and has suppressed the material facts from 
+the Court ? OPD.
+7. Whether the suit is barred by law of limitation ? OPD.
+8. Whether the plaintiff has not affixed the ad-volerum 
+court fee, thus suit is liable to fail? OPD.”
+8.	
+It appears from the materials on record that the trial court essentially 
+dismissed the suit on the point of limitation. We may quote the 
+relevant findings recorded by the trial court in this regard:-
+160
+Supreme Court Reports
+“The relevant extract of his cross-examination is reproduced 
+here under :-
+...Yaha Thik Hai Ki Registry Likhne Ke Bad Ram Parshad 
+Arjinawis Ne Hum Sabhi Ko Padkar Suna Di Thi Aur Sabi 
+Ne Thik Mankar Apne Apne Anguthe Dastak Kiye The…”
+Similarly, the vendor of the impugned sale deed – Ex.PW.8 
+has deposed that he put his signature on the impugned 
+sale deed at the instance of plaintiff. The relevant extract 
+of his cross-examination is reproduced here under :-
+“...Meine Bhimsain Ke Kehne Par Thik Mankar Apne 
+Sign Kiye The…”
+Plaintiff himself has claimed in his cross-examination that 
+he put his signatures after reading last one and half line 
+which was pertaining to payment of the sale consideration. 
+Meaning thereby, plaintiff himself has also admitted that 
+he was present at the time of execution of the impugned 
+sale deed; put his signatures and appeared before Sub 
+Registrar. This deposition of plaintiff that he just read 
+last one and half line is not comprehendable as he is 
+an educated property dealer. Though, at this juncture, 
+the execution of impugned sale deed without payment 
+stood established yet, from the aforesaid discussion, it 
+is abundantly clear on file that factum of execution of 
+impugned sale deed to the extent of ½ share in favour 
+of defendant was in his notice/knowledge at the time 
+of execution of the impugned sale deed itself i.e. on 
+26.5.2009.”
+9.	
+The trial court relied upon the decision of this Court rendered in the 
+case of Janardhanam Prasad vs. Ramdas , (2007) 2 LJR 783, for 
+the proposition that the period of limitation for the purpose of seeking 
+cancellation of sale deed would be from the date of registration of 
+the sale deed.
+10.	 The suit ultimately came to be dismissed. 
+11.	 The first appeal filed by the petitioner also came to be dismissed. 
+The First Appellate Court recorded the following findings:-
+[2025] 6 S.C.R. 
+161
+Santosh Devi v. Sunder
+“20. I have given thoughtful consideration to the submissions 
+made by both sides. It is pertinent to note that a reading of 
+the impugned sale deed Ex.P18 reveals that the plaintiff is 
+also a signatory to the sale deed. It is also noteworthy that 
+the plaintiff admitted his signatures on the sale deed during 
+his cross-examination as PW.10. It is further significant 
+to note that PW.5 Ram Parshad, Deed Writer stated that 
+the sale deed was prepared by him as per instructions of 
+the parties and the contents of the same were read over 
+and explained to the parties who accepted them to be 
+correct and thereafter affixed their thumb impressions and 
+signatures on the same. It is also relevant to note that PW.7 
+Rameshwar Dass- Numberdar who is attesting witness 
+to the sale deed admitted during his cross-examination 
+that the contents of the sale deed were read over by the 
+Deed Writer before all the parties who accepted them to 
+be correct and thereafter affixed their thumb impressions 
+and signatures on the same. It is further worthwhile to 
+note that PW.8 Ajit Kumar-vendor has made a similar 
+statement in his cross-examination. It is also important 
+to note that the sale deed Ex.P18 is registered document 
+which bears endorsement of the Sub- Registrar that its 
+contents were read over and explained to the parties who 
+accepted them are to be correct and said endorsement 
+carries presumption of truth as per Sub Section (2) of 
+Section 60 of the Registration Act, 1908. In these facts 
+and circumstances of the case, I am of the considered 
+opinion that it is duly established that plaintiff was duly 
+aware about the execution and registration of the sale 
+deed Ex.P18 in his name and in the name of defendant 
+to the extent of half share each since its execution and 
+registration and plea of fraud taken by the plaintiff is not 
+tenable. Accordingly, the plaintiff could have challenged 
+the sale deed within three years from its registration i.e. 
+26.05.2008. However, the case in hand was filed on 
+12.10.2012. At this juncture, I may also observe that the 
+provision for condonation of delay under Section 5 of the 
+Limitation Act, 1963 does not apply to suits. Therefore, 
+162
+Supreme Court Reports
+the argument of plaintiff that he was not well and thereby 
+prevented by a sufficient cause from filing the suit within 
+prescribed time cannot be looked into. Consequently, the 
+suit of the plaintiff is hopelessly barred by limitation.
+21. It is further imperative to note that even if it is believed 
+for the sake of arguments, that plaintiff paid the entire 
+sale consideration for purchasing the land which is 
+subject matter of the sale deed under challenge, it is duly 
+established as already discussed above that plaintiff was 
+aware of the fact that defendant was recorded owner in 
+possession of the land to the extent of half share since 
+the very beginning. Thus, when the plaintiff allowed the 
+defendant to get his name incorporated in the sale deed 
+as owner of half share of the land, the stand of plaintiff that 
+he is the absolute owner of the land because he paid the 
+entire sale consideration, is hit by Section 4 of the Benami 
+Transactions (Prohibition) Act, 1988. It is also pertinent to 
+mention that the law laid down in Manoj Arora Vs. Mamta 
+Arora (supra) which is relied upon by the learned counsel 
+for the plaintiff does not apply to the present lis as in that 
+case the plaintiff had purchased the property in the name 
+of his wife and in these circumstances it was ruled that bar 
+of Benami Transactions (Prohibition) Act will not apply to 
+the claim of husband over the suit property. However, in 
+the instant case the plaintiff and defendant are not husband 
+and wife or otherwise closely related to each other.
+22. In view of above discussion and peculiar facts and 
+circumstances of the present lis, the citations relied upon 
+by the plaintiff are distinguishable and not applicable to the 
+case in hand and no decree as prayed for can be passed 
+in favour of plaintiff. Consequently, the suit of plaintiff has 
+rightly been dismissed by the Trial Court. Resultantly, no 
+interference in this appeal is warranted and the appeal 
+is dismissed. Parties are left to bear their own costs. 
+Decree-sheet be prepared accordingly. Trial Court record 
+along with copy of this Judgment be sent to Trial Court 
+for information. Appeal file be consigned to record room.”
+[2025] 6 S.C.R. 
+163
+Santosh Devi v. Sunder
+12.	 The petitioner preferred second appeal before the High Court. The 
+High Court dismissed the second appeal holding as under:-
+“6. A registered sale deed executed in favour of two 
+purchasers cannot be modified/rectified merely on account 
+of the fact that the payment has been made from the 
+plaintiff’s account, particularly, when they were working 
+together as the property brokers. Only they are aware 
+of the equation between them. In any case, the plaintiff 
+may have a right to recover the amount, if the respondent 
+has failed to pay his contribution. However, that will be 
+subject to the rendition of accounts between the plaintiff 
+and the respondents. As regards the second argument, 
+it would be noted that Order VII Rule 6 of the Code of 
+Civil Procedure,1908, provides for exemption arising out 
+of the Limitation Law. It does not provide for extending 
+the period of limitation or condonation in filing the suit. It 
+only suggests that the ground of exemption from limitation 
+should be specifically pleaded in the plaint. Order VII 
+Rule 6 does not provide a remedy, it merely lays down 
+a procedure.”
+13.	 In such circumstances, referred to above, the petitioner is here before 
+this Court with the present petition.
+14.	 We heard Ms. Srishti Singla, the learned counsel appearing for the 
+petitioner at length.
+15.	 The learned counsel pressed into service two submissions. The first 
+submission is with regard to Order VII Rule 6 of the Civil Procedure 
+Code, 1908 (for short “the CPC”). The Order VII Rule 6 of CPC 
+reads thus:-
+“7. PLAINT 
+6. Grounds of exemption from limitation law.—Where the 
+suit is instituted after the expiration of the period prescribed 
+by the law of limitation, the plaint shall show the ground 
+upon which exemption from such law is claimed:
+Provided that the Court may permit the plaintiff to claim 
+exemption from the law of limitation on any ground not 
+164
+Supreme Court Reports
+set out in the plaint, if such ground is not inconsistent with 
+the grounds set out in the plaint.”
+16.	 The second submission is with respect to Section 17 of the Limitation 
+Act. Section 17 reads thus:-
+“17. Effect of fraud or mistake.—(1) Where, in the case 
+of any suit or application for which a period of limitation 
+is prescribed by this Act,—
+(a) the suit or application is based upon the fraud of the 
+defendant or respondent or his agent; or 
+(b) the knowledge of the right or title on which a suit or 
+application is founded is concealed by the fraud of any 
+such person as aforesaid; or 
+(c) the suit or application is for relief from the consequences 
+of a mistake; or 
+(d) where any document necessary to establish the right of 
+the plaintiff or applicant has been fraudulently concealed 
+from him; 
+the period of limitation shall not begin to run until the plaintiff 
+or applicant has discovered the fraud or the mistake or 
+could, with reasonable diligence, have discovered it, or in 
+the case of a concealed document, until the plaintiff or the 
+applicant first had the means of producing the concealed 
+document or compelling its production: 
+Provided that nothing in this section shall enable any suit 
+to be instituted or application to be made to recover or 
+enforce any charge against, or set aside any transaction 
+affecting, any property which— 
+(i) in the case of fraud, has been purchased for valuable 
+consideration by a person who was not a party to the fraud 
+and did not at the time of the purchase know, or have 
+reason to believe, that any fraud had been committed, or 
+(ii) in the case of mistake, has been purchased for valuable 
+consideration subsequently to the transaction in which the 
+mistake was made, by a person who did not know, or have 
+reason to believe, that the mistake had been made, or 
+[2025] 6 S.C.R. 
+165
+Santosh Devi v. Sunder
+(iii) in the case of a concealed document, has been 
+purchased for valuable consideration by a person who 
+was not a party to the concealment and, did not at the 
+time of purchase know, or have reason to believe, that 
+the document had been concealed. 
+(2) Where a judgment-debtor has, by fraud or force, 
+prevented the execution of a decree or order within the 
+period of limitation, the court may, on the application of the 
+judgment-creditor made after the expiry of the said period 
+extend the period for execution of the decree or order: 
+Provided that such application is made within one year 
+from the date of the discovery of the fraud or the cessation 
+of force, as the case may be.”
+17.	 To appreciate the findings arrived at by the Courts below, we must 
+first see on whom the onus of proof lies. The record reveals that the 
+disputed document is a registered sale deed. It is not in dispute that 
+the petitioner has signed the sale deed. We are, therefore, guided by 
+the settled legal principle that a document is presumed to be genuine 
+if the same is registered, as held by this Court in Prem Singh and 
+Ors. v. Birbal and Ors. reported in (2006) 5 SCC 353. The relevant 
+portion of the said decision reads as below:
+“27. There is a presumption that a registered document 
+is validly executed. A registered document, therefore, 
+prima facie would be valid in law. The onus of proof, thus, 
+would be on a person who leads evidence to rebut the 
+presumption. In the instant case, Respondent 1 has not 
+been able to rebut the said presumption.”
+(Emphasis supplied) 
+In view thereof, in the present case, the initial onus was on the 
+plaintiff, who had challenged the sale deed.
+18.	 When fraud is alleged against the defendant, it is an acknowledged 
+rule of pleading that the plaintiff must set forth the particulars of the 
+fraud which he alleges. In the present case, fraud is alleged as a 
+ground upon which the plaintiff justifies the institution of the suit long 
+after the expiry of the period normally allowed for the institution of the 
+166
+Supreme Court Reports
+suit. Though no specific reference to the provisions of Section 17 of 
+the Limitation Act, 1963 (for short, ‘the Limitation Act’) is made in the 
+plaint, it is manifest that the pleading proceeds upon the hypothesis 
+that the plaintiff had also contributed along with the defendant in 
+the purchase of the subject property and at the time of the sale, 
+the plaintiff was entitled to 50% of the sale consideration. In other 
+words, the fraud was played upon the plaintiff to sign the sale deed 
+and thereby transfer the subject property. The requirement of Order 
+VII Rule 6, Civil Procedure Code, are clear. It is necessary that the 
+plaint should show the ground upon which the exemption from the 
+normal period of limitation is claimed. The question is whether the 
+plaint in this case fulfils the requirements of law. As observed by 
+Lord Selborne in Walling Ford vs. Mutul Society reported in (1880) 
+5 A.C. 685:
+“With regard to fraud, if there be any principle which is 
+perfectly well settled, it is that general allegations however 
+strong be the words in which they are stated, are insufficient 
+even to amount to an averment of fraud of which any Court 
+ought to take notice.”
+19.	 It is not the mere use of general words such as ‘fraud’ that can serve 
+as the foundation for the plea. Such expressions are quite ineffective 
+to give the legal basis in the absence of particular statements of fact 
+which alone can furnish the requisite basis for the action.
+20.	 Order VII Rule 6 uses the words “the plaint shall show the ground 
+upon which exemption from such law is claimed”. The exemption 
+provided under Sections 4 to 20 of the Limitation Act are based on 
+certain facts and events. Section 17, with which we are concerned, 
+provides for a fresh period of limitation, which is founded on certain 
+facts.
+21.	 The matter can also be looked at from a different angle. Assuming for 
+the moment that the defendant was a party to the fraud as alleged 
+relating to the sale transaction, whether the same by itself is sufficient 
+to save limitation under Section 17 of the Limitation Act. We are of 
+the opinion that the fraud relating to the sale transaction as alleged 
+itself would not help the plaintiff in getting over the plea of limitation 
+in this case. As already discussed, under Section 17 of the Limitation 
+Act, the plaintiff should have been kept out of knowledge of his right 
+[2025] 6 S.C.R. 
+167
+Santosh Devi v. Sunder
+to sue by means of fraud. We are of the opinion that the alleged 
+fraud relating to the sale transaction itself has nothing to do with the 
+question viz., that the plaintiff had been kept out of knowledge of his 
+right to file a suit for cancellation of the sale deed because of fraud.
+22.	 In overall view of the matter, we are of the view that no error, not to 
+speak of any error of law, could be said to have been committed by 
+the High Court in passing the impugned judgment and order.
+23.	 The Special Leave Petition stands, accordingly, dismissed.
+24.	 Pending application(s), if any, stand disposed of.
+Result of the case: Special Leave Petition dismissed.
+†Headnotes prepared by: Divya Pandey

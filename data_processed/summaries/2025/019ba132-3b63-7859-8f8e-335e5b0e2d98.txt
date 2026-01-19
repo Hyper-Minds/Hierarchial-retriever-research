@@ -1,0 +1,14 @@
+## Court Name: Supreme Court of India
+## Petitioner Name(s): UCO Bank & Anr.
+## Respondent Name(s): Vijay Kumar Handa
+## Case Background: The respondent, Vijay Kumar Handa, was serving as a Clerk in the appellant bank when he was dismissed from service for indulging in riotous, disorderly and indecent behavior within the premises of the bank. He was found guilty of gross misconduct under Clause 19.5(c) of the Bipartite Settlement dated 19.10.1966.
+## Petitioner Arguments: Learned senior counsel for the appellant argued that the respondent was not entitled to pension as he did not fulfill the requirements of pension in terms of the ninth Bipartite Settlement dated 27.04.2010, and Regulation 22 of the UCO Bank (Employees') Pension Regulations, 1995 does not permit grant of pension to delinquent employees.
+## Respondent Argument: Learned counsel for the respondent relied on the decision of this Court in S.K. Kool (supra) and submitted that the respondent having completed the minimum pensionable years of service, he is entitled to the pensionary benefits.
+## Issues discussed in Court: Whether the respondent was entitled to receive terminal benefits for the period of service he had rendered; whether the penalty of removal from service would be without disqualification from future employment; and whether the Labour Court's award substituting the penalty of stoppage of four increments for one year with further direction for reinstatement in service was justified.
+## Final Decision: The appeal is dismissed.
+## Court's Reasoning: The court relied on its previous decision in S.K. Kool (supra) and held that an employee who is found guilty of gross misconduct under Clause 19.5(c) of the Bipartite Settlement shall be entitled to superannuation benefits "as would be due otherwise" under the Regulations.
+## List of Important Precedents Cited: Bank of Baroda v. S.K. Kool [2013] 12 SCR 783
+## List of Acts:
+- Industrial Disputes Act, 1947
+- Industrial Disputes (Central) Rules, 1957
+- UCO Bank (Employees') Pension Regulations, 1995

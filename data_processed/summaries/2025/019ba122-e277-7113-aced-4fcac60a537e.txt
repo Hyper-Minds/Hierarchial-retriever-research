@@ -1,0 +1,30 @@
+## Court Name : "Supreme Court of India"
+## Petitioner Name(s) : M/s Naresh Kumar Gupta
+## Respondent Name(s) : State of Punjab & Another
+
+## Case Background: 
+The case revolves around the amendment to Section 29 of the Punjab Value Added Tax Act, 2005 by the Punjab Value Added Tax Act, 2013. The petitioner, M/s Naresh Kumar Gupta, challenged this amendment before the High Court of Punjab and Haryana at Chandigarh.
+
+## Petitioner Arguments: 
+The petitioner argued that the amendment was prospective, reversed several judgments of the High Court, violated principles of natural justice, extended the period of reassessment even where the original period for assessment had expired, and the proviso to the amended section 29(4) was contrary to the main section.
+
+## Respondent Argument: 
+The respondent argued that the amendment was not so unreasonable or excessive as to warrant it being declared invalid. The High Court held that the proviso itself establishes that the opening part of the amended Section 29(4) is retrospective and that to construe the opening part of Section 29(4) as being prospective would render the proviso and Explanation (1) thereto otiose.
+
+## Issues discussed in Court: 
+Constitutional validity of the amendment, Prospective and Retrospective operation, Principles of natural justice, Extend the period of reassessment, Bar of limitation.
+
+## Final Decision: 
+The Supreme Court dismissed the Civil Appeals and Transferred Cases filed by the petitioner-assessee(s) against the State of Punjab and the Union Territory of Chandigarh. The court directed the appellants to pay the outstanding tax dues, restricted only to the principal amount of tax dues, and reserved liberty to any aggrieved party to contend that the judgment of this Court in Nokia is not applicable.
+
+## Court's Reasoning: 
+The court relied on its own judgment in State of Punjab vs. Nokia India Pvt. Ltd., (2014) 16 SCC 410, and cited several other precedents to support its decision. The court also noted that the legislature has the power to enact laws with retrospective effect and that the amendment was made to obviate the consequences of the proviso to the unamended section.
+
+## List of Important Precedents Cited: 
+- Additional Commissioner (Legal) & Another v. Jyoti Traders & Another
+- State of Punjab vs. Nokia India Pvt. Ltd.
+- Amrit Banaspati Company Ltd. v. State of Punjab & Others
+
+## List of Acts: 
+- Punjab Value Added Tax Act, 2005
+- Punjab Value Added Tax Act, 2013

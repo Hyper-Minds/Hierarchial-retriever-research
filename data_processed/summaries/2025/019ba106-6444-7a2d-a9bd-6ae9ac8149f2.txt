@@ -1,0 +1,34 @@
+## COURT NAME
+M/s Ferro Concrete Construction (India) Pvt. Ltd. v. The State of Rajasthan
+
+## PETITIONER NAME(S)
+M/s Ferro Concrete Construction (India) Pvt. Ltd.
+
+## RESPONDENT NAME(S)
+The State of Rajasthan
+
+## CASE BACKGROUND
+The appellant, M/s Ferro Concrete Construction (India) Pvt. Ltd., was awarded a works contract by the respondent, The State of Rajasthan, in 1988. A clause in the agreement barred the appellant from claiming interest on any payment or arrears or balance due to it.
+
+## PETITIONER ARGUMENTS
+The appellant argued that Clause 22 of the agreement does not expressly bar the arbitrator's power to grant pendente lite interest as per the law under the Arbitration Act, 1940.
+
+## RESPONDENT ARGUMENT
+The respondent argued that a narrower contractual clause has been treated as an ouster clause that bars the arbitrator from awarding pendente-lite interest.
+
+## ISSUES DISCUSSED IN COURT
+Whether Clause 22 of the agreement amounts to an express bar on the arbitrator's power to grant pendente lite interest under the Arbitration Act, 1940.
+
+## FINAL DECISION
+The Court allowed the appeal and set aside the impugned judgment of the High Court. Considering that the arbitrator entered reference in 1991 and the award was made in 1995, along with the passage of time in litigation as well as the amounts already paid by the respondent including post-award interest @ 9%, the Court granted 9% pendente lite interest.
+
+## COURT'S REASONING
+The Court followed the decisions in Reliance Cellulose Products Ltd v. Oil and Natural Gas Corporation Limited, Union of India v. Ambica Construction, and other cases to hold that an express contractual bar on the payment of pendente lite interest is required to create a bar on the arbitrator's power to grant interest.
+
+## LIST OF IMPORTANT PRECEDENTS CITED
+- Reliance Cellulose Products Ltd v. Oil and Natural Gas Corporation Limited
+- Union of India v. Ambica Construction
+- G.C. Roy v. Secretary, Irrigation Department, Government of Orissa
+
+## LIST OF ACTS
+Arbitration Act, 1940; Arbitration and Conciliation Act, 1996

@@ -1,0 +1,31 @@
+## Court Name: Supreme Court of India
+## Petitioner Name(s): Sushil Kumar Tiwari
+## Respondent Name(s): Hare Ram Sah & Ors.
+
+## Case Background: 
+The case revolves around the trial of two accused persons, Hare Ram Sah and Manish Tiwari, who were charged with committing rape against a victim. The petitioner, Sushil Kumar Tiwari, challenged the conviction and sentence of the Trial Court, arguing that the joinder of trials was improper.
+
+## Petitioner Arguments: 
+The petitioner argued that the joinder of trials was not permissible under Section 223 Cr.P.C. and that it caused prejudice to the accused persons. The petitioner also argued that the trial court failed to apply the principle of beyond reasonable doubt correctly.
+
+## Respondent Argument: 
+The respondent argued that the joinder of trials was permissible under Section 223 Cr.P.C. and that it did not cause any prejudice to the accused persons.
+
+## Issues discussed in Court: 
+The Court discussed the issues of non-compliance with Section 223 Cr.P.C., joinder of trials, and the application of the principle of beyond reasonable doubt.
+
+## Final Decision: 
+The Supreme Court set aside the judgment of the High Court and restored the judgment of the Trial Court. The Court held that the joinder of trials was not permissible under Section 223 Cr.P.C. but did not cause any prejudice to the accused persons.
+
+## Court's Reasoning: 
+The Court relied on various precedents, including Soundarajan v. State (Represented by Inspector of Police, Vigilance Anti-Corruption, Dindigul) and Nasib Singh v. State of Punjab and another, to arrive at its decision. The Court also emphasized the importance of applying the principle of beyond reasonable doubt correctly.
+
+## List of Important Precedents Cited: 
+Soundarajan v. State (Represented by Inspector of Police, Vigilance Anti-Corruption, Dindigul)
+Nasib Singh v. State of Punjab and another
+
+## List of Acts: 
+Section 223 Cr.P.C.
+Section 218 Cr.P.C.
+Section 219-221 Cr.P.C.
+Section 216 Cr.P.C.

@@ -1,0 +1,34 @@
+## Court Name:
+The Supreme Court of India
+
+## Petitioner Name(s):
+State of Goa & Anr.
+
+## Respondent Name(s):
+Namita Tripathi
+
+## Case Background: 
+The State of Goa & Anr. v. Namita Tripathi is a case filed by the State of Goa against Namita Tripathi, alleging that she was engaged in a manufacturing process without obtaining the necessary license and permission from the State.
+
+## Petitioner Arguments:
+The petitioner argued that the respondent's activities constituted a manufacturing process as defined under Section 2(k) of the Factories Act, 1948. The petitioner contended that the respondent's washing and cleaning activities were part of a manufacturing process, which was not permitted without a license.
+
+## Respondent Argument:
+The respondent argued that dry cleaning did not constitute a manufacturing process and that she had obtained necessary permits and licenses for her business.
+
+## Issues discussed in Court:
+The court discussed the definition of "manufacturing process" under Section 2(k) of the Factories Act, 1948, and whether the respondent's activities fell within this definition. The court also considered the provisions of the Central Excise Act, 1944, and its implications on the case.
+
+## Final Decision:
+The Supreme Court allowed the appeal and set aside the order of the High Court. The court held that the respondent's activities constituted a manufacturing process as defined under Section 2(k) of the Factories Act, 1948.
+
+## Court's Reasoning:
+The court relied on the definition of "manufacturing process" under Section 2(k) of the Factories Act, 1948, and held that it included washing and cleaning activities. The court also considered the provisions of the Central Excise Act, 1944, and its implications on the case.
+
+## List of Important Precedents Cited:
+Steel Authority of India Ltd. & Ors. v. National Union Waterfront Workers & Ors., (2001) 7 SCC 1
+
+## List of Acts:
+Factories Act, 1948
+Central Excise Act, 1944
+Employees State Insurance Corporation Act

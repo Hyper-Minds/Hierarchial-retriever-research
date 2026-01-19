@@ -1,0 +1,34 @@
+## Court Name:
+Supreme Court of India
+
+## Petitioner Name(s):
+M/s Triveni Engineering and Industries Ltd.
+
+## Respondent Name(s):
+State of Uttar Pradesh & Ors.
+
+## Case Background:
+The case revolves around the impugned orders passed by the National Green Tribunal (NGT) in O.A. No. 71/2021, which entail adverse civil consequences upon the appellant, M/s Triveni Engineering and Industries Ltd. The NGT had ordered the closure of the sugar mill of the appellant without following the due procedure laid down under the Water (Prevention and Control of Pollution) Act, 1974, and the Environment (Protection) Act, 1986.
+
+## Petitioner Arguments:
+The petitioner argued that the impugned orders were passed without following the due procedure laid down under the statute as well as the elementary principles of natural justice. The appellant contended that the NGT had not followed the statutory provisions and had outsourced investigation to administrative committees by overlooking the statutory provisions and basing its decisions on the recommendations of such administrative committee.
+
+## Respondent Argument:
+The respondent argued that the NGT exercises judicial functions and is required to follow a fair procedure which is statutorily laid down, including principles of natural justice. The respondent contended that the NGT cannot be stretched to abandon the statutory procedure laid down under Sections 21 and 22 of the Water Act.
+
+## Issues discussed in Court:
+The court discussed the issues of non-conforming to the laid down procedure contemplated under Sections 21 and 22 of the Water (Prevention and Control of Pollution) Act, 1974, and the importance of following the due process statutorily laid down thereunder, including principles of natural justice.
+
+## Final Decision:
+The Supreme Court allowed the appeals filed by M/s Triveni Engineering and Industries Ltd. and set aside the impugned orders dated 15.02.2022 and 16.09.2022 passed by the NGT in O.A. No. 71/2021.
+
+## Court's Reasoning:
+The court held that the procedure followed by NGT was totally unknown to the settled principles of natural justice. The court observed that NGT cannot outsource an opinion and base its decision on such opinion, and that the adjudicatory functions of NGT cannot be assigned to committees, even expert committees.
+
+## List of Important Precedents Cited:
+S.N. Mukherjee Vs. Union of India
+
+## List of Acts:
+Water (Prevention and Control of Pollution) Act, 1974
+Environment (Protection) Act, 1986
+National Green Tribunal Act, 2010

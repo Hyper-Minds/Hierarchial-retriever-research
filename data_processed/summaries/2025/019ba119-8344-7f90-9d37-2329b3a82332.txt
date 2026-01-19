@@ -1,0 +1,21 @@
+## Court Name: Supreme Court of India
+
+## Petitioner Name(s): Shanmugam @ Lakshminarayanan and others
+
+## Respondent Name(s): High Court of Madras
+
+## Case Background: The case revolves around the issue of limitation for initiating contempt proceedings under Section 20 of the Contempt of Courts Act, 1971. The petitioner, Shanmugam @ Lakshminarayanan, and others, had allegedly committed contempt by taking over benami concerns, transferring funds to these concerns, and operating their accounts clandestinely.
+
+## Petitioner Arguments: The petitioner argued that Section 20 of the Contempt of Courts Act, 1971, should be construed in a manner which would avoid an anomaly and hardship both as regards the litigants as also by placing a pointless fetter on the part of the court to punish for contempt. They contended that providing for the quantum of punishment or what may or may not be regarded as acts of contempt or even providing for a period of limitation for initiating proceedings for contempt cannot be taken to be a provision which abrogates or stultifies the contempt jurisdiction under Article 129 or Article 215 of the Constitution.
+
+## Respondent Argument: The respondent argued that the interpretation canvassed by Mr. Venugopal would mean that the court would be rendered powerless to punish even though it may be fully convinced of the blatant nature of the contempt having been committed and the same having been brought to the notice of the court soon after the commission of the contempt and within the period of one year of the same.
+
+## Issues discussed in Court: The Court discussed the interpretation of Section 20 of the Contempt of Courts Act, 1971, and whether it abrogates or stultifies the power under Article 129 and/or Article 215 of the Constitution. The Court also considered the meaning to be given to the expression "no court shall initiate any proceedings for contempt …" occurring in Section 20 of the Act.
+
+## Final Decision: The Supreme Court held that the action taken by the Special Court to punish the appellant for contempt was valid, and the appeals were dismissed. However, the sentence of simple imprisonment for six months was modified to simple imprisonment for one month.
+
+## Court's Reasoning: The Court reasoned that Section 20 of the Contempt of Courts Act, 1971, should be construed in a manner which would avoid an anomaly and hardship both as regards the litigants as also by placing a pointless fetter on the part of the court to punish for contempt. The Court also considered the provisions of Section 17 of the Limitation Act, which provides that where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed by the Schedule, the provisions of Section 3 shall apply as if such period were the period prescribed by the Schedule.
+
+## List of Important Precedents Cited: Kartick Chandra Das
+
+## List of Acts: Contempt of Courts Act, 1971; Limitation Act, 1963

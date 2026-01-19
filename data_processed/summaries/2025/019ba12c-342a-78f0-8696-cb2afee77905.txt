@@ -1,0 +1,30 @@
+## Court Name : "Supreme Court of India"
+## Petitioner Name(s) : Serosoft Solutions Pvt. Ltd.
+## Respondent Name(s) : Dexter Capital Advisors Pvt. Ltd.
+
+## Case Background: 
+The case revolves around a dispute between Serosoft Solutions Pvt. Ltd. and Dexter Capital Advisors Pvt. Ltd., regarding the non-payment of fees for services rendered by Dexter Capital Advisors Pvt. Ltd. to Serosoft Solutions Pvt. Ltd. The dispute was resolved through arbitration, with the Arbitral Tribunal rejecting the respondent/claimant's request for further opportunity to cross-examine one of its witnesses.
+
+## Petitioner Arguments: 
+The petitioner argued that the High Court should have restrained itself from interfering with the directions of the Arbitral Tribunal holding that full and sufficient opportunity to cross-examine RW-1 has already been given and no further extension of time is warranted.
+
+## Respondent Argument: 
+The respondent/claimant argued that they were unsatisfied with the initial cross-examination of their witness RW-1, which had exceeded 12 hours, and sought a further opportunity to cross-examine. The High Court granted this request, despite the Arbitral Tribunal's rejection.
+
+## Issues discussed in Court:
+* Whether the High Court correctly exercised its supervisory jurisdiction under Article 227 in granting the respondent/claimant one more opportunity to cross-examine appellant/respondent’s witness.
+* The correct interpretation of Section 29A of the Arbitration and Conciliation Act, 1996.
+
+## Final Decision: 
+The Supreme Court allowed the appeals and set aside the orders passed by the High Court in CM(M) 3711/2004 and CM Appl. 63047/2024 dated 25.10.2024.
+
+## Court's Reasoning:
+* The court held that the Arbitral Tribunal had given full opportunity to all parties, and the High Court should have restrained itself from interfering.
+* The court relied on a judgment of the same Court (Kelvin Air Conditioning and Ventilation System Pvt. Ltd. v. Triumph Reality Pvt. Ltd.) which mentioned conditions for exercising jurisdiction under Articles 226/227.
+
+## List of Important Precedents Cited:
+Kelvin Air Conditioning and Ventilation System Pvt. Ltd. v. Triumph Reality Pvt. Ltd.
+
+## List of Acts:
+* Arbitration and Conciliation Act, 1996
+* Constitution of India

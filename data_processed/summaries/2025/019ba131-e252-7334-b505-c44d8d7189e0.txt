@@ -1,0 +1,21 @@
+## Court Name: Supreme Court of India
+
+## Petitioner Name(s): New Mangalore Port Trust & Anr.
+
+## Respondent Name(s): Clifford D Souza Etc. Etc.
+
+## Case Background: The case revolves around the recovery of arrears of rent by the New Mangalore Port Trust (NMP) from Clifford D Souza and others, who are lessees of a plot of land in Mangalore. The NMP had issued several demands for payment, but the respondents challenged these demands in the High Court of Karnataka.
+
+## Petitioner Arguments: The petitioner argued that the recovery proceedings were barred by limitation due to the retrospective application of the revised tariff notification dated 23.07.2010. They claimed that the benefit of Section 18 of the Limitation Act should be extended, allowing them to recover the arrears beyond the initial three-year period.
+
+## Respondent Argument: The respondents argued that they had not acknowledged the liability or paid any amount, and therefore, the petitioner's claim was without merit. They also claimed that the petitioner had failed to raise the plea of acknowledgment and extension of limitation under Section 18 of the Limitation Act either before the Estate Officer, the District Judge, or the High Court.
+
+## Issues discussed in Court: The court discussed the applicability of Section 18 of the Limitation Act, the retrospective application of the revised tariff notification, and the limitation period for recovery proceedings under the Prohibition of Property (Maintenance and Transfer) Act, 1985.
+
+## Final Decision: The Supreme Court allowed the appeals, set aside the impugned order of the High Court, and restored the writ petitions before the High Court to be heard after disposal of the pending intra-court appeals filed by the respondents.
+
+## Court's Reasoning: The court held that Section 18 of the Limitation Act applies to proceedings under the Prohibition of Property (Maintenance and Transfer) Act, 1985, and that the benefit of this provision should be extended to the petitioner. The court also rejected the respondents' argument that they had not acknowledged the liability or paid any amount.
+
+## List of Important Precedents Cited: Kalu Ram vs. New Delhi Municipal Committee
+
+## List of Acts: Prohibition of Property (Maintenance and Transfer) Act, 1985, Limitation Act
