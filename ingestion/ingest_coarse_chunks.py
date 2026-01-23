@@ -7,6 +7,7 @@ from vectorstore.set_up_collections import get_qdrant_client
 from langchain_core.documents import Document
 from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEmbeddings
+from ingestion import metadata
 
 load_dotenv()
 
@@ -59,13 +60,17 @@ def ingest_coarse_chunks():
                     chunk_text = chunk_data["text"]
                     chunk_id = chunk_data["chunk_id"]
                     doc_id = chunk_data["doc_id"]
+
+                    ## If you want metadata, add the metadata field below
+                    # This gets metadata dictionary from ingestion/metadata.py
+                    metadata_payload = metadata.get_metadata_from_cnr(cnr_num)
+
+                    metadata_payload["doc_id"] = doc_id
+                    metadata_payload["chunk_id"] = chunk_id
                     
                     chunk_doc_obj = Document(
                         page_content=chunk_text,
-                        metadata={
-                            "doc_id": doc_id,
-                            "chunk_id": chunk_id,
-                        }
+                        metadata = metadata_payload
                     )
 
                     list_of_chunk_documents.append(chunk_doc_obj)

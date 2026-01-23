@@ -18,7 +18,7 @@ SUMMARY_ID_TO_CNR_CSV = os.getenv("SUMMARY_ID_TO_CNR_CSV")
 
 def split_section_into_chunks(section_text: str):
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=2000,
+        chunk_size=2500,
         chunk_overlap=200,
         separators=["\n\n", "\n", ".", " ", ""]
     )

@@ -1,0 +1,29 @@
+## Court Name: Supreme Court of India
+## Petitioner Name(s): Principal Commissioner of Income Tax-4 & Anr.
+## Respondent Name(s): M/s Jupiter Capital Pvt. Ltd.
+
+## Case Background: 
+The case revolves around the reduction in share capital of a subsidiary company and its impact on the assessee's shareholding pattern. The assessee claimed long-term capital loss due to the reduction, but the Assessing Officer disagreed, holding that there was no transfer of a capital asset.
+
+## Petitioner Arguments:
+The petitioner argued that the reduction in share capital is covered under "sale, exchange or relinquishment of the asset" as defined in Section 2(47) of the Income Tax Act, 1961. They contended that the extinguishment of rights, including the right to dividend and share capital, amounts to a transfer within the meaning of section 2(47).
+
+## Respondent Argument:
+The respondent argued that there was no transfer of a capital asset, as the face value per share remained the same before and after the reduction. They also relied on the judgment in Kartikeya V. Sarabhai v. Commissioner of Income Tax (1997) 7 SCC 524.
+
+## Issues discussed in Court:
+The court discussed whether the reduction in share capital is covered under "sale, exchange or relinquishment of the asset" as defined in Section 2(47) of the Income Tax Act, 1961.
+
+## Final Decision:
+The Supreme Court upheld the judgment of the ITAT and the High Court, holding that the reduction in share capital is indeed covered under section 2(47).
+
+## Court's Reasoning:
+The court relied on the definition of "transfer" in Section 2(47) of the Income Tax Act, 1961, which includes the extinguishment of any rights therein. They also cited precedents such as Kartikeya V. Sarabhai v. Commissioner of Income Tax (1997) 7 SCC 524 and Anarkali Sarabhai v. CIT (1997) 3 SCC 238.
+
+## List of Important Precedents Cited:
+- Kartikeya V. Sarabhai v. Commissioner of Income Tax (1997) 7 SCC 524
+- Anarkali Sarabhai v. CIT (1997) 3 SCC 238
+
+## List of Acts:
+- Companies Act, 2013
+- Income Tax Act, 1961

@@ -1,0 +1,33 @@
+## Court Name:
+Supreme Court of India
+
+## Petitioner Name(s):
+A. Satish Kumar & Ors.
+
+## Respondent Name(s):
+The State, Central Bureau of Investigation
+
+## Case Background:
+The case involves an appeal against the quashing of FIRs and further proceedings in pursuance thereof by the High Court of Telangana. The petitioner, A. Satish Kumar, was accused of committing an offence under Section 7 of the Prevention of Corruption Act (PC Act) along with another person, Sri Challa Sreenivasulu.
+
+## Petitioner Arguments:
+The petitioner argued that the Central Bureau of Investigation (CBI), being a Special Police Establishment (SPE), had the power to register and investigate the offence without the consent of the State Government concerned. The petitioner also relied on the general consent granted by the Government of Andhra Pradesh to exercise powers and jurisdiction under the DSPE Act in the erstwhile State of Andhra Pradesh.
+
+## Respondent Argument:
+The respondent, The State, Central Bureau of Investigation, argued that the CBI had no power to register and investigate the offence without the consent of the State Government concerned. The respondent relied on Section 6 of the DSPE Act, which requires prior consent from the State Government for the exercise of powers and jurisdiction.
+
+## Issues discussed in Court:
+The court discussed the interpretation of Section 5 and 6 of the DSPE Act, particularly with regard to the power of CBI to investigate offences committed outside the Union Territory. The court also considered the general consent granted by the Government of Andhra Pradesh and its applicability to the new States of Telangana and Andhra Pradesh.
+
+## Final Decision:
+The Supreme Court allowed the appeals, setting aside the impugned judgment whereunder subject FIRs and further proceedings in pursuance thereof were quashed. The court held that the CBI had the power to register and investigate the offence without the consent of the State Government concerned.
+
+## Court's Reasoning:
+The court relied on its previous decisions, including Kanwal Tanuj v. State of Bihar (2020) 20 SCC 531, which held that the CBI had the power to investigate offences committed outside the Union Territory. The court also considered the general consent granted by the Government of Andhra Pradesh and its applicability to the new States of Telangana and Andhra Pradesh.
+
+## List of Important Precedents Cited:
+Kanwal Tanuj v. State of Bihar (2020) 20 SCC 531
+
+## List of Acts:
+Prevention of Corruption Act (PC Act), 1946
+Delhi Special Police Establishment Act, 1946

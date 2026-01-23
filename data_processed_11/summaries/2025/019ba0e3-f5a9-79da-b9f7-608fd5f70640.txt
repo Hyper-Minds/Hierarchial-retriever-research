@@ -1,0 +1,24 @@
+## Court Name: Supreme Court of India
+
+## Petitioner Name(s): Municipal Corporation of Delhi
+
+## Respondent Name(s): Gagan Narang & Ors. Etc.
+
+## Case Background: The case involves a dispute between the Municipal Corporation of Delhi (Appellant) and Gagan Narang & Ors. Etc. (Respondents) regarding the adoption of a tariff for waste-to-energy (WTE) projects in Delhi. The Appellant had filed an appeal before the Appellate Tribunal for Electricity at New Delhi (APTEL), challenging the decision of the DERC to approve the tariff.
+
+## Petitioner Arguments: The Appellant argued that the DERC's approval of the tariff was incorrect as it did not consider all relevant factors, including the mandate of Rule 15 of the SWM Rules 2016 and the financial evaluation report. The Appellant also argued that the WTE project was in the larger public interest and provided for disposal of huge quantity of waste generated in the city.
+
+## Respondent Argument: The Respondents argued that the Appellant was a total stranger to the case as it had not filed an application under Section 63 of the Act. They also argued that the Appellant's appeal before the APTEL was not maintainable.
+
+## Issues discussed in Court: The court discussed the interpretation of Section 63 of the Act, the mandate of Rule 15 of the SWM Rules 2016, and the financial evaluation report. The court also considered the public interest aspect of the WTE project.
+
+## Final Decision: The Supreme Court allowed the appeals of the Appellant, quashing the common final judgment and order of the APTEL.
+
+## Court's Reasoning: The court held that the provisions of Section 63 of the Act should be read in harmony with the provisions of Section 86(1)(b) of the Act. The court also considered the mandate of Rule 15 of the SWM Rules 2016 and the financial evaluation report. The court observed that the Appellant was not a stranger to the case as it had established the WTE project to perform its statutory obligations.
+
+## List of Important Precedents Cited: Not Available
+
+## List of Acts:
+
+- Environment (Protection) Act, 1986
+- SWM Rules 2016

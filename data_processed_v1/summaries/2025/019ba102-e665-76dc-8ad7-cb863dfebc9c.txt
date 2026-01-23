@@ -1,0 +1,27 @@
+## Court Name : Supreme Court of India
+## Petitioner Name(s) : Smt. Uma Devi and Ors.
+## Respondent Name(s) : Sri. Anand Kumar and Ors.
+
+## Case Background: 
+The case pertains to a civil dispute concerning an immovable property situated at Pattangere Village, Kengeri, Hobli, Bengaluru South Taluk. The plaintiffs and defendants belong to the same larger family. The original owner of the property was Boranna, who passed away leaving behind four sons.
+
+## Petitioner Arguments: 
+The plaintiffs argued that the suit for partition was filed within the limitation period as the limitation will be counted from the date of their knowledge of the sale deed. However, upon examining the pleadings before the Trial Court and appellate court, it is evident that the plaintiff failed to address the crucial question of when they became aware of the registered sale deeds.
+
+## Respondent Argument: 
+The defendants argued that the property had already been partitioned by way of an oral partition in 1968 amongst his four sons, through a family settlement. They also contended that the plaintiffs were effectively challenging a sale deed executed by their own aunt and that the suit was barred by limitation.
+
+## Issues discussed in Court: 
+Whether the High Court was correct in remanding the matter back to the trial court when trial court had allowed the application of the defendants/appellants u/Or.7 r.11 CPC, and dismissed the suit for partition filed by the plaintiffs in 2023, holding that the suit did not disclose proper cause of action and was barred by limitation.
+
+## Final Decision: 
+The Supreme Court set aside the impugned order dated 08.01.2025 passed by the High Court, allowing both appeals.
+
+## Court's Reasoning: 
+The court held that the plaintiffs had full knowledge of this transaction and failed to specify the exact date of such knowledge. The court also relied on settled principles of law stating that registration of a document gives notice to the world that such a document has been executed.
+
+## List of Important Precedents Cited: 
+Suraj Lamp Industries Pvt. Ltd. v. State of Haryana & Anr., Shri Mukund Bhavan Trust & Ors. v. Shrimant Chhatrapati Udayan Raje Pratapsinh Maharaj Bhonsle & Anr., Madanuri Sri Rama Chandra Murthy v. Syed Jalal, Dahiben v. Arvindbhai Kalyanji Bhanusali
+
+## List of Acts: 
+Code of Civil Procedure, 1908

@@ -1,0 +1,35 @@
+## Court Name:
+Supreme Court of India
+
+## Petitioner Name(s):
+Ashok Singh and Anr.
+
+## Respondent Name(s):
+State of Uttar Pradesh & Anr.
+
+## Case Background:
+The case revolves around a cheque dishonour case filed by the petitioner, Ashok Singh, against the respondent, State of Uttar Pradesh, and another accused. The petitioner alleged that he had withdrawn Rs 22 lakhs from his bank account in Faizabad (now Firozabad) at the behest of the respondent no.2, who was a partner in M/s Sun Enterprises.
+
+## Petitioner Arguments:
+The petitioner argued that the respondent no.2 had not received any payment from him and therefore, the cheque issued by the petitioner in favour of the respondent no.2 was dishonoured. The petitioner also claimed that he had withdrawn the amount from his bank account in Faizabad (now Firozabad) at the behest of the respondent no.2.
+
+## Respondent Argument:
+The respondent argued that the petitioner had not proved the source of funds for advancing a loan to the accused and therefore, the complaint was not maintainable.
+
+## Issues discussed in Court:
+The court discussed whether the petitioner had established his case and whether the respondent's argument was correct.
+
+## Final Decision:
+The Supreme Court allowed the appeal and set aside the judgment of the High Court. The court held that the presumption under Section 139 of the Negotiable Instruments Act, 1881 (NI Act) shifted the onus to the accused to prove their defence. However, the petitioner had established his case by producing evidence that he had withdrawn the amount from his bank account in Faizabad (now Firozabad) at the behest of the respondent no.2.
+
+## Court's Reasoning:
+The court held that the trial court and the Appellate Court had erred in not appreciating the presumption under Section 139 of the NI Act, which shifted the onus to the accused to prove their defence. The court also held that the High Court had erred in overturning the concurrent findings of guilt and consequential conviction by the Trial Court and the Appellate Court.
+
+## List of Important Precedents Cited:
+S.M.S. Pharmaceuticals Ltd. v. Neeta Bhalla, (2005) 8 SCC 89
+
+## List of Acts:
+Negotiable Instruments Act, 1881 (NI Act)
+
+## List of Acts:
+Section 118 and 139 of the NI Act

@@ -1,7 +1,15 @@
 from collections import defaultdict
+import os
 from typing import List, Dict
 from langchain_qdrant import QdrantVectorStore
 from vectorstore.set_up_collections import get_coarse_chunk_store, get_summary_store
+import traceback
+from dotenv import load_dotenv
+
+load_dotenv()
+print(1)
+
+maximum_chunks_per_doc_to_return = int(os.getenv("MAXIMUM_CHUNKS_PER_DOC_TO_RETURN", 3))
 
 def hybrid_document_retriever(
     query: str,
@@ -30,17 +38,23 @@ def hybrid_document_retriever(
             query,
             k=top_k_summaries
         )
+
         # summary_id -> summary_score
         print("[SUMMARY STORE]: Retrieved Summary")
         summary_scores: Dict[str, float] = {}
+        summary_text : Dict[str, str] = {}
+        summary_metadata = {}
 
         for doc, score in summary_results:
             doc_id = doc.metadata["summary_id"]
             summary_scores[doc_id] = score
+            summary_text[doc_id] = doc.page_content 
+            summary_metadata[doc_id] = doc.metadata 
 
         # -----------------------------
         # 2. Query CHUNK collection
         # -----------------------------
+
         chunk_results = chunk_store.similarity_search_with_score(
             query,
             k=top_k_chunks
@@ -59,26 +73,32 @@ def hybrid_document_retriever(
                 chunk_scores[doc_id] = score
 
             # Store the chunks under the corresponding doc id
-            doc_id_to_chunks[doc_id].append({
-                "doc_id": doc_id,
-                "chunk_id": chunk_doc.metadata.get("chunk_id", "N/A"),
-                "chunk_text": chunk_doc.page_content,
-                "score": score
-            })
+            # after score add the chunk order to get the chunks in correct order later
 
-            # print(len(chunk_doc.page_content))
+            doc_id_to_chunks[doc_id].append(
+                (
+                    score, # add chunk order also 
+                    {
+                        "chunk_id": chunk_doc.metadata.get("chunk_id", "N/A"),
+                        "chunk_content": chunk_doc.page_content
+                    }
+                )
+            )
+        
+        print("[CHUNK STORE]: Processed Chunks per Document")
 
         # -----------------------------
         # 3. Combine scores per document
         # -----------------------------
+
         final_doc_scores = {}
-
+    
         all_doc_ids = set(summary_scores.keys()) | set(chunk_scores.keys())
-
+    
         for doc_id in all_doc_ids:
             s_score = summary_scores.get(doc_id, 0.0)
             c_score = chunk_scores.get(doc_id, 0.0)
-
+    
             final_score = a * s_score + b * c_score
             final_doc_scores[doc_id] = final_score
 
@@ -87,8 +107,8 @@ def hybrid_document_retriever(
         # -----------------------------
         ranked_docs = sorted(
             final_doc_scores.items(),
-            key=lambda x: x[1],
-            reverse=True
+            key = lambda x: x[1],
+            reverse = True
         )
 
         # -----------------------------
@@ -97,23 +117,53 @@ def hybrid_document_retriever(
         results = []
 
         for doc_id, score in ranked_docs[:final_top_k_docs]:
+            chunks_list = doc_id_to_chunks.get(doc_id, [])
+            
+            # sort chunks based on score descending
+            chunks_list = sorted(
+                chunks_list,
+                key=lambda x: x[0],
+                reverse=True
+            )
+
+            # keep only the chunk dict, discard score and limit number of chunks
+            final_limited_chunks = []
+
+            for i, (chunk_score, chunk_dict) in enumerate(chunks_list):
+                if i >= maximum_chunks_per_doc_to_return:
+                    break
+                final_limited_chunks.append(chunk_dict)
+
+            final_supporting_chunks = len(doc_id_to_chunks.get(doc_id, []))
+
             results.append({
                 "doc_id": doc_id,
                 "final_score": score,
+                "summary_text" : summary_text[doc_id],
                 "summary_score": summary_scores.get(doc_id, 0.0),
-                "chunk_score": chunk_scores.get(doc_id, 0.0),
-                "chunks": doc_id_to_chunks.get(doc_id, [])
+                "max_chunk_score": chunk_scores.get(doc_id, 0.0),
+                "chunks": final_limited_chunks,
+                "supporting_chunks" : final_supporting_chunks,
+                "year" : summary_metadata.get(doc_id, {}).get("year", ""),
+                "cnr" : summary_metadata.get(doc_id, {}).get("cnr", ""),
+                "case_id" : summary_metadata.get(doc_id, {}).get("case_id", ""),
+                "respondent" : summary_metadata.get(doc_id, {}).get("respondent", ""), 
+                "petitioner" : summary_metadata.get(doc_id, {}).get("petitioner", ""),
+                "judge" : summary_metadata.get(doc_id, {}).get("judge", ""),
+                "court" : summary_metadata.get(doc_id, {}).get("court", "")
             })
 
         return results
-    
+
     except Exception as e:
         print("ERROR DURING HYBRID RETRIEVAL:", str(e))
+        traceback.print_exc()
         return []
 
 if(__name__ == "__main__"):
 
     query = "M/s Naresh Potteries and M/s Aarti Industries and Another. Name the judge of the case"
+    
     summary_store = get_summary_store()
     chunk_store = get_coarse_chunk_store()
     results = hybrid_document_retriever(
@@ -122,10 +172,12 @@ if(__name__ == "__main__"):
         chunk_store,
         top_k_summaries=10,
         top_k_chunks=50,
-        final_top_k_docs=10,
+        final_top_k_docs=2,
         a=0.7,
         b=0.3
     )
-    for (i, res) in enumerate(results):
-        print("_" * 10 + f"Result {i+1}:" + "_" * 10)
-        print(res)
+
+    # context = prompt.get_final_response_prompt(query, results)
+    for doc in results:
+        print(doc["doc_id"], doc["final_score"])
+        print(len(doc["chunks"]))

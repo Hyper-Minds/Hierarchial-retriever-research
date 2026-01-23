@@ -17,7 +17,6 @@ DSCR_PATTERN = re.compile(
 
 def remove_page_headers(text: str) -> str:
     cleaned_lines = []
-
     for line in text.splitlines():
         stripped = line.strip()
 
@@ -31,7 +30,6 @@ def remove_page_headers(text: str) -> str:
 
     return "\n".join(cleaned_lines)
 
-
 load_dotenv()
 
 OLD_DATA_2025_PDF = os.getenv("OLD_DATA_2025_PDF")
@@ -40,6 +38,9 @@ OLD_DATA_2025_METADATA_FILE = os.getenv("OLD_DATA_2025_METADATA_FILE")
 NEW_DATA_2025_TEXT_FOLDER = os.getenv("NEW_DATA_2025_TEXT_FOLDER")
 NEW_DATA_2025_METADATA_FOLDER = os.getenv("NEW_DATA_2025_METADATA_FOLDER")
 NEW_DATA_2025_METADATA_CSV_NAME = os.getenv("NEW_DATA_2025_METADATA_CSV_NAME")
+
+NEW_DATA_FOLDER = os.getenv("NEW_DATA_FOLDER")
+CNR_TO_PDF_PATH_CSV = os.getenv("CNR_TO_PDF_PATH_CSV")
 
 if(os.path.exists(NEW_DATA_2025_METADATA_FOLDER) == False):
     os.makedirs(NEW_DATA_2025_METADATA_FOLDER)
@@ -51,7 +52,7 @@ not_needed_metadata_keys = ["raw_html", "available_languages", "scraped_at"]
 
 def extract_metadata():
     """
-    Extract 50 PDFs from the data folder and store it in a separate folder.
+    Extract 20 PDFs from the data folder and store it in a separate folder.
     """
     metadata_df = pd.read_parquet(OLD_DATA_2025_METADATA_FILE)
     metadata_df = metadata_df.replace({pd.NA: None, np.nan: None})
@@ -64,7 +65,7 @@ def extract_metadata():
 
     print(selected_df.head())
 
-    num_cases_to_process = 50
+    num_cases_to_process = 200
 
     processed_cases = 0
     seen_cases = set()
@@ -72,12 +73,12 @@ def extract_metadata():
     metadata_columns = list(selected_df.columns)
     quoted_metadata_columns = ['\"' + col + '\"' for col in metadata_columns]
     
-
     # write the header to csv file
-
     with open(os.path.join(NEW_DATA_2025_METADATA_FOLDER, NEW_DATA_2025_METADATA_CSV_NAME), "w", encoding="utf-8") as metadata_csv:
         metadata_csv.write(",".join(quoted_metadata_columns) + "\n")
-    # selected_df.to_csv(os.path.join(NEW_DATA_2025_METADATA_FOLDER, NEW_DATA_2025_METADATA_CSV_NAME), index=False, quoting=1)
+
+    with open(os.path.join(NEW_DATA_FOLDER, CNR_TO_PDF_PATH_CSV), "w", encoding = "utf-8") as cnr_to_path_csv:
+        cnr_to_path_csv.write(r'"cnr","path"' + "\n")
 
     # iterate each row in dataframe
     for row in selected_df.itertuples():
@@ -85,6 +86,8 @@ def extract_metadata():
             break
 
         case_id = getattr(row, "cnr")
+        pdf_path = getattr(row, "path")
+
         if case_id in seen_cases:
             continue
 
@@ -97,6 +100,13 @@ def extract_metadata():
             metadata_csv.write(",".join(row_values) + "\n")
 
         pdf_path = getattr(row, "path") + ".pdf"
+
+        # WRITE THE CNR AND THE PDF PATH IN CSV file 
+        with open(os.path.join(NEW_DATA_FOLDER, CNR_TO_PDF_PATH_CSV), "a", encoding = "utf-8") as cnr_to_path_csv:
+            row_values = ['\"' + case_id + '\"', '\"' + pdf_path + '\"']
+            cnr_to_path_csv.write(",".join(row_values) + "\n") 
+
+
         full_pdf_path = os.path.join(OLD_DATA_2025_PDF, pdf_path)
 
         # Extract text from PDF
@@ -112,8 +122,6 @@ def extract_metadata():
         with open(text_file_path, "w", encoding="utf-8") as text_file:
             text_file.write(cleaned_text)
         print(f"Processed case {case_id} : {processed_cases} out of 100.")
-
-
 
 if __name__ == "__main__":
     extract_metadata() 

@@ -1,0 +1,27 @@
+## Court Name : Supreme Court of India
+## Petitioner Name(s) : The Management of Worth Trust 
+## Respondent Name(s) : The Secretary, Worth Trust Workers Union
+
+## Case Background: 
+The case revolves around whether a trust engaged in charitable and commercial activities can be exempted from paying bonus to its workmen under the Payment of Bonus Act, 1965.
+
+## Petitioner Arguments:
+The appellant-trust argued that it is exempted under Section 32(v)(a) or (c) of the Bonus Act, as it is an institution established not for purposes of profit. The trust claimed that its primary objective is to rehabilitate leprosy-cured patients and other persons with disabilities.
+
+## Respondent Argument:
+The respondent-union argued that the workmen are entitled to receive their bonus under the Payment of Bonus Act, as they are engaged in manufacturing activities and fall within the definition of 'workmen' and 'employee' under the Factories Act, 1948 and the Bonus Act.
+
+## Issues discussed in Court: 
+Payment of Bonus Act, 1965; Section 32 of the Payment of Bonus Act, 1965; Charitable activities; Rehabilitation of leprosy-cured patients; Commercial activities; Workmen's entitlement to bonus.
+
+## Final Decision:
+The Supreme Court held that the appellant-trust is not exempted under section 32(v)(a) or (c) of the Bonus Act, and the workmen of the respondent-union are entitled to receive their bonus in accordance with law.
+
+## Court's Reasoning: 
+The court observed that although the trust has charitable objectives, its commercial activities make it liable to pay bonus to its workmen. The court also noted that the trust's primary objective is not to generate profits, but this does not exempt it from paying bonus under the Bonus Act.
+
+## List of Important Precedents Cited: 
+Not Available
+
+## List of Acts: 
+Payment of Bonus Act, 1965; Factories Act, 1948; Industrial Disputes Act, 1947.

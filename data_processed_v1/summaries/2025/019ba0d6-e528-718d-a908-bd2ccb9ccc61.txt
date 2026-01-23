@@ -1,0 +1,27 @@
+## Court Name : Supreme Court of India
+## Petitioner Name(s) : Daljit Singh
+## Respondent Name(s) : State of Haryana & Anr.
+
+## Case Background: 
+The case revolves around a complaint filed by the NHAI (National Highways Authority of India) against the Appellant, Daljit Singh, for allegedly failing to meet specifications in a contract for '8-Laning' of a National Highway. The dispute led to the filing of a complaint, summoning order, and an order declaring the Appellant a proclaimed offender.
+
+## Petitioner Arguments: 
+The Appellant argued that his status as a proclaimed offender should be nullified if he stands acquitted during trial in connection with the very same offence. He also claimed that the subsistence of the proclamation under Section 82 Cr.P.C. is necessary for the authorities to proceed against an accused against whom such a proclamation stands issued, under Section 174A IPC.
+
+## Respondent Argument: 
+The State of Haryana & Anr. argued that the prosecution can still proceed against the Appellant for having not appeared before a Court during the time that the process was in effect, even if the status u/s.82 Cr.P.C. is nullified.
+
+## Issues discussed in Court:
+Whether the proclaimed offender status, under the provisions of the Cr.P.C., of an accused can subsist if such accused stands acquitted during trial in connection to the very same offence? Whether the subsistence of the proclamation u/s 82 Cr.P.C. is necessary for the authorities to proceed against the accused person u/s 174A IPC?
+
+## Final Decision: 
+The Supreme Court allowed the appeal, holding that Section 174A IPC is an independent, substantive offence that can continue even if the proclamation under Section 82, Cr.P.C. is extinguished.
+
+## Court's Reasoning: 
+The court held that while proceedings under Section 174A IPC cannot be initiated independent of Section 82, Cr.P.C., they can continue if the said proclamation is no longer in effect. The court also noted that the Appellant has been acquitted, meaning there is no case for which his presence is required to be secured.
+
+## List of Important Precedents Cited: 
+Mukesh Bhatia v. State (NCT of Delhi), Divya Verma v. State, Sameena & Anr. v. State GNCT of Delhi & Anr., Kartarey v. State of U.P., Jayendra Vishnu Thakur v. State of Maharashtra, Vimlaben Ajitbhai Patel v. Vatslaben Ashok bhai Patel.
+
+## List of Acts: 
+Penal Code, 1860; Code of Criminal Procedure, 1973; Negotiable Instruments Act, 1881

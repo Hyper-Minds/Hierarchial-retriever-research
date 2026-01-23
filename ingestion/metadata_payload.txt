@@ -1,0 +1,11 @@
+court -
+cnr -
+year -
+petitioner -
+respondent -
+judge - 
+    case_num - number of that case type filed (range) - not done
+    case_type - not done 
+case_id - 2025 INSC 8
+doc_id -
+[chunk_id] -

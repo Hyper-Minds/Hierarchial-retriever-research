@@ -5,6 +5,7 @@ from vectorstore.set_up_collections import get_qdrant_client
 from langchain_core.documents import Document
 from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEmbeddings
+from ingestion import metadata
 
 load_dotenv()
 
@@ -38,15 +39,17 @@ def ingest_summaries():
         with open(summary_file_path, "r", encoding="utf-8") as summary_file:
             summary_text = summary_file.read()
 
-        ## If you want metadata, add the metadata field below
-        ## metadata = {} 
+        # If you want metadata, add the metadata field below
+        # This gets metadata dictionary from ingestion/metadata.py
+        metadata_payload = metadata.get_metadata_from_cnr(cnr_num)
+
+        # Set the payload fields in the Document metadata
+        metadata_payload["summary_id"] = summary_id
+        metadata_payload["cnr"] = cnr_num
 
         document_summary_obj = Document(
-            page_content=summary_text,
-            metadata={
-                "summary_id": summary_id,
-                "cnr": cnr_num
-            }
+            page_content = summary_text,
+            metadata = metadata_payload
         )
 
         vector_store.add_documents([document_summary_obj])
