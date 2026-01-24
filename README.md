@@ -45,23 +45,13 @@ By leveraging this hybrid strategy, the retriever significantly enhances search 
 
 ---
 
-## Evaluation
-
-| Metric     | Improvement |
-|-------------|-------------|
-| Recall@10   | +42%        |
-| Precision   | Improved contextual accuracy |
-| Relevance   | Better coverage of legal nuances |
-
----
-
 ## Tech Stack
 
-- **Language Models:** Sentence Transformers / LLMs  
-- **Vector Store:** FAISS / Chroma / Pinecone (configurable)  
-- **Backend:** Python, FastAPI  
-- **Embedding Models:** BGE / Instructor / OpenAI (pluggable)
-
+- **Language Models:**  Llama 3.2 7B for generation and summarization  
+- **Vector Store:** Qdrant  
+- **Backend:** Python, Flask  
+- **Embedding Models:** BAAI/bge-large-en-v1.5
+- **Front End:** React.js
 ---
 
 ## Use Cases
@@ -70,7 +60,6 @@ By leveraging this hybrid strategy, the retriever significantly enhances search 
 - Case law similarity search  
 - Precedent retrieval for argument drafting  
 - Intelligent court information systems
-
 ---
 
 ## Future Enhancements
@@ -82,6 +71,3 @@ By leveraging this hybrid strategy, the retriever significantly enhances search 
 
 ---
 
-## Contributors
-
-Developed by **Tejeswar** as part of an AI-powered legal research initiative.
