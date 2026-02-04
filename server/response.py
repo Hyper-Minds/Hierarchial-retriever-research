@@ -7,7 +7,6 @@ def get_response(query, summary_store, coarse_chunk_store):
     final_top_k_docs = 3
     top_k_summaries: int = 10
     top_k_chunks: int = 50
-    final_top_k_docs: int = 5
     a = 0.7
     b = 0.3
     
