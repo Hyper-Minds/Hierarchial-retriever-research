@@ -1,8 +1,4 @@
 .venv
-data_new
-data_processed_old
-data_new
 data_old 
-rm_data_processed
-rm_data_processed_v1
 muruga
+.env

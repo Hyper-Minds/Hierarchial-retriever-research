@@ -75,10 +75,8 @@ def get_final_response_prompt(query, hybrid_retriever_result):
     Do Not USE YOUR INTERNAL KNOWLEDGE to answer the user query. Use only the context to answer the user query. 
     If you can not find the needed information, reply that information can not be found.
 
-    for example:
-    The Supreme Court in the case of *Respondent Name* vs *Petetioner Name* held that...
-
-    Give the answer in a concise and point wise manner. Use correct newlines for structuring the output. The answer should be concise and about 300 words.
+    Give the answer in a concise and point wise manner. Use correct newlines for structuring the output. 
+    The answer should be concise and less than 200 words.
     
     ## CONTEXT:
     {context}

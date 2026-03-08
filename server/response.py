@@ -1,13 +1,14 @@
 from llm import llama, prompt
 from retrieval import hybrid_retriever
 from vectorstore import set_up_collections
+import json 
 
 
 def get_response(query, summary_store, coarse_chunk_store):
-    final_top_k_docs = 3
+    final_top_k_docs = 20
+    top_k_prompt_docs = 3
     top_k_summaries: int = 10
     top_k_chunks: int = 50
-    final_top_k_docs: int = 5
     a = 0.7
     b = 0.3
     
@@ -23,12 +24,18 @@ def get_response(query, summary_store, coarse_chunk_store):
     )
 
     print("[Response Generation]: Retrieval completed")
-    
+
+    # get the top_p_display_docs for display in the UI
+    prompt_docs = hybrid_retriever_result[:top_k_prompt_docs]
+
     print("DOCUMENT SUMMARIES RETRIEVED")
     for doc in hybrid_retriever_result:
         print(doc["doc_id"])
-    
-    final_response_prompt = prompt.get_final_response_prompt(query, hybrid_retriever_result)
+
+    with open("retrieved_docs.json", "w") as f:
+        json.dump(hybrid_retriever_result, f, indent=4)
+  
+    final_response_prompt = prompt.get_final_response_prompt(query, prompt_docs)
     print("[Response Generation]: Prompt prepared, sending to LLM")
     
     llm_response = llama.get_answer(final_response_prompt)
@@ -36,9 +43,9 @@ def get_response(query, summary_store, coarse_chunk_store):
 
     # print("----- FINAL RESPONSE FROM LLM -----")
     # print(llm_response)
-
+  
     return llm_response, hybrid_retriever_result
-
+  
 
 if (__name__ == "__main__"):
     query = """ A complaint was filed by Sh. Neeraj Kumar on behalf of the appellant-firm, M/s Naresh Potteries. what was that. """
@@ -47,4 +54,3 @@ if (__name__ == "__main__"):
  
     res = get_response(query, summary_store, coarse_chunk_store)
     print(res)
-    

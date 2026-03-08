@@ -1,8 +1,8 @@
-import pandas as pd 
 import os 
 import json
 from dotenv import load_dotenv
 from retrieval import normal_retriever
+from evaluation import metrics
 from vectorstore.set_up_collections import get_coarse_chunk_store, get_summary_store
 
 load_dotenv()
@@ -12,17 +12,6 @@ EVALUATION_GROUND_TRUTH_FILE = os.getenv("EVALUATION_GROUND_TRUTH_FILE", "ground
 NORMAL_RETRIEVER_EVALUATION_OUTPUT_FILE = os.getenv("NORMAL_RETRIEVER_EVALUATION_OUTPUT_FILE", "normal_retriever_results.json")
 ground_truth_doc_id = []
 
-def precision_recall_at_k(retrieved, relevant_docs, k):
-    retrieved_k = retrieved[:k]
-    retrieved_doc_ids = {r["doc_id"] for r in retrieved_k}
-    relevant_docs = set(relevant_docs)
-
-    true_positives = len(retrieved_doc_ids & relevant_docs)
-
-    precision = true_positives / k
-    recall = true_positives / len(relevant_docs)
-
-    return precision, recall
 
 def load_ground_truth(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -33,11 +22,15 @@ if(__name__ == "__main__"):
     ground_truth_path = os.path.join(EVALUATION_RESULTS_FOLDER, EVALUATION_GROUND_TRUTH_FILE)
     ground_truth_data = load_ground_truth(ground_truth_path)
 
-    k = 10
+    K = 10
+    top_k_chunks = 10
 
     evaluation_precision = []
     evaluation_recall = []
     evaluation_result = []
+
+    global_retrieved_lst = [] 
+    global_relevent_lst = [] 
 
     coarse_chunk_vector_store = get_coarse_chunk_store()
 
@@ -48,62 +41,58 @@ if(__name__ == "__main__"):
         retrieved_docs = normal_retriever.normal_retriever(
             query= query_text,
             chunk_store = coarse_chunk_vector_store,
-            top_k_chunks = 50,
-            final_top_k_docs = k,
+            top_k_chunks = top_k_chunks,
+            final_top_k_docs = K,
         )
+        retrieved_doc_ids = [doc["doc_id"] for doc in retrieved_docs]
 
         print("[EVALUATE]  Retrieved Docs for Query:", query_text)
 
-        precision, recall = precision_recall_at_k(retrieved_docs, relevant_docs, k = k)
+        precision, recall = metrics.precision_recall_at_k(retrieved_doc_ids, relevant_docs, k = K)
         
         evaluation_precision.append(precision)
         evaluation_recall.append(recall)
 
-        retrieved_doc_ids = [doc["doc_id"] for doc in retrieved_docs]
+        
         chunks_score = [doc["chunk_score"] for doc in retrieved_docs]
+        max_rel_chunk_id_lst = [doc.get("maximum_rel_chunk_id", []) for doc in retrieved_docs]
+
+        # append the documents to the global retrieved and global relevent doc id list 
+        global_relevent_lst.append(relevant_docs)
+        global_retrieved_lst.append(retrieved_doc_ids)
 
         evaluation_result.append({
             "query": query_text,
             "relevant_docs_id": relevant_docs,
             "retrieved_docs_id": retrieved_doc_ids,
             "chunks_score": chunks_score,
-            f"precision_at{k}": precision,
-            f"recall_at@{k}": recall
+            "maximum_rel_chunk_ids" : max_rel_chunk_id_lst,
+            f"precision_at{K}": precision,
+            f"recall_at@{K}": recall
         })
 
-        print(f"Precision@{k}: {precision:.4f}, Recall@{k}: {recall:.4f}")
+        print(f"Precision@{K}: {precision:.4f}, Recall@{K}: {recall:.4f}")
         print("")
 
     avg_precision = sum(evaluation_precision) / len(evaluation_precision)
     avg_recall = sum(evaluation_recall) / len(evaluation_recall)
-    print(f"Average Precision@{k}: {avg_precision:.4f}")
-    print(f"Average Recall@{k}: {avg_recall:.4f}")
+    mean_reciprocal_rank = metrics.get_mean_reciprocal_rank(global_retrieved_lst, global_relevent_lst)
+    mean_norm_dcg_score = metrics.mean_ndcg_at_k(global_retrieved_lst, global_relevent_lst, K)
+
+    print()
+    print(f"Average Precision@{K}: {avg_precision:.4f}")
+    print(f"Average Recall@{K}: {avg_recall:.4f}")
+    print(f"Mean Reciprocal Rank: {mean_reciprocal_rank:.4f}")
+    print(f"Mean nDCG@{K} : {mean_norm_dcg_score:.4f}")
     print()
 
     evaluation_result.append({
-        f"average_precision_at_{k}": avg_precision,
-        f"average_recall_at_{k}": avg_recall   
+        f"average_precision_at_{K}": avg_precision,
+        f"average_recall_at_{K}": avg_recall   ,
+        f"mean_reciprocal_rank" : mean_reciprocal_rank,
+        f"mean_normalized_dcg@{K}" : mean_norm_dcg_score
     })
 
     output_path = os.path.join(EVALUATION_RESULTS_FOLDER, NORMAL_RETRIEVER_EVALUATION_OUTPUT_FILE)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump({"results": evaluation_result}, f, ensure_ascii=False, indent=2)
-
-    # k_values = [1, 3, 5, 10]
-
-    # overall_metrics = {k: {"precision": 0, "recall": 0} for k in k_values}
-    # total_queries = len(ground_truth_data)
-
-    # for query in ground_truth_data:
-    #     relevant_docs = query["relevant_docs"]
-    #     retrieved_docs = query["retrieved_docs"]
-
-    #     for k in k_values:
-    #         precision, recall = precision_recall_at_k(retrieved_docs, relevant_docs, k)
-    #         overall_metrics[k]["precision"] += precision
-    #         overall_metrics[k]["recall"] += recall
-
-    # for k in k_values:
-    #     overall_metrics[k]["precision"] /= total_queries
-    #     overall_metrics[k]["recall"] /= total_queries
-    #     print(f"At K={k}: Precision={overall_metrics[k]['precision']:.4f}, Recall={overall_metrics[k]['recall']:.4f}")

@@ -10,7 +10,7 @@ def normal_retriever(
     query: str,
     chunk_store : QdrantVectorStore,
     top_k_chunks: int = 50,
-    final_top_k_docs: int = 0,
+    final_top_k_docs: int = 10
 ):
     """
     Hybrid document-level retriever using:
@@ -23,7 +23,7 @@ def normal_retriever(
         )
 
         # doc_id -> max_chunk_score
-        chunk_scores: Dict[str, float] = defaultdict(float)
+        chunk_scores: Dict[str, List] = defaultdict(list)
         doc_id_to_chunks: Dict[str, List[Dict]] = defaultdict(list)
 
         print("[COARSE CHUNK STORE]: Retrieved Coarse Chunks")
@@ -31,32 +31,29 @@ def normal_retriever(
         for chunk_doc, score in chunk_results:
             doc_id = chunk_doc.metadata["doc_id"]
 
-            # keep only the strongest chunk per document
-            if score > chunk_scores[doc_id]:
-                chunk_scores[doc_id] = score
+            # # keep only the strongest chunk per document
+            # if score > chunk_scores[doc_id]:
+            chunk_scores[doc_id].append(score)
 
             # Store the chunks under the corresponding doc id
             doc_id_to_chunks[doc_id].append({
                 "doc_id": doc_id,
                 "chunk_id": chunk_doc.metadata.get("chunk_id", "N/A"),
-                "chunk_text": chunk_doc.page_content,
+                # "chunk_text": chunk_doc.page_content,
                 "score": score
             })
 
-            # print(len(chunk_doc.page_content))
-
-        # -----------------------------
-        # 3. Combine scores per document
-        # -----------------------------
         final_doc_scores = {}
 
         all_doc_ids = set(chunk_scores.keys())
 
         for doc_id in all_doc_ids:
-            c_score = chunk_scores.get(doc_id, 0.0)
+            num_chunks = len(chunk_scores[doc_id])
+            scores_sum = sum(chunk_scores[doc_id])
+            print("Sum of chunk scores: ", scores_sum, " No of chunks: ", num_chunks)
 
-            final_score = c_score
-            final_doc_scores[doc_id] = final_score
+            avg_score = scores_sum / num_chunks
+            final_doc_scores[doc_id] = avg_score
 
         # -----------------------------
         # 4. Rank documents
@@ -76,6 +73,7 @@ def normal_retriever(
             results.append({
                 "doc_id": doc_id,
                 "chunk_score": score,
+                "maximum_rel_chunk_id" : [],
                 "chunks": doc_id_to_chunks.get(doc_id, [])
             })
 
@@ -84,17 +82,3 @@ def normal_retriever(
     except Exception as e:
         print("ERROR DURING HYBRID RETRIEVAL:", str(e))
         return []
-
-if(__name__ == "__main__"):
-
-    query = "M/s Naresh Potteries and M/s Aarti Industries and Another. Name the judge of the case"
-    chunk_store = get_coarse_chunk_store()
-    results = normal_retriever(
-        query,
-        chunk_store,
-        top_k_chunks=50,
-        final_top_k_docs=10
-    )
-    for (i, res) in enumerate(results):
-        print("_" * 10 + f"Result {i+1}:" + "_" * 10)
-        print(res)
