@@ -2,79 +2,49 @@
   "queries": [
     {
       "query_id": "q1",
-      "query": "What was the legal issue decided by the Supreme Court regarding the starting point of limitation for filing objections to an arbitral award under the Arbitration Act, 1940?",
-      "relevant_docs": ["019ba12b-e91f-79ff-8f13-f2eb74286740"]
+      "query": "The case revolves around the acquisition of land ",
+      "relevant_docs": ["019ba0df-d815-7de5-ae52-77ee1b5c5303"]
     },
     {
       "query_id": "q2",
-      "query": "Which specific provision of the Limitation Act, 1963 governs the time period for filing objections to an arbitral award, and what is the prescribed limitation period?",
-      "relevant_docs": ["019ba12b-e91f-79ff-8f13-f2eb74286740"]
+      "query": "cases against their parents relevant to property conflict",
+      "relevant_docs": ["019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215", "019ba0d4-95e3-78e9-9405-e249a4cceb36", 
+                        "019ba12a-dc75-7c4b-b90b-469116223a62", "019ba102-e665-76dc-8ad7-cb863dfebc9c"] 
     },
     {
       "query_id": "q3",
-      "query": "On which date did the Supreme Court hold that the respondent became aware of the arbitral award for the purpose of calculating limitation?",
-      "relevant_docs":  ["019ba12b-e91f-79ff-8f13-f2eb74286740"]
-    },
+      "query": "The Supreme Court upheld the judgment of the High Court and dismissing the appeals of the  petitioners",
+      "relevant_docs": ["019ba0f9-3bbf-728c-b464-94436469da3d", "019ba12d-444f-73b3-8c02-1749cdd76317" ]
+    }, 
     {
       "query_id": "q4",
-      "query" : "Why did the Supreme Court conclude that the application filed under Section 17 of the Arbitration Act, 1940 was not premature in this case?",
-      "relevant_docs":  ["019ba12b-e91f-79ff-8f13-f2eb74286740"]
+      "query": "Cases with citations of Janardhanam Prasad v. Ramdas",
+      "relevant_docs": ["019ba11d-8a7d-78e2-bd13-02bbc11260c8" ]
     },
     {
       "query_id": "q5",
-      "query": "How has the Supreme Court consistently interpreted the expression “notice of the filing of the award” under Section 14(2) of the Arbitration Act, 1940 across multiple decisions, and does it mandate a formal written notice in all cases?",
-      "relevant_docs":  ["019ba12b-e91f-79ff-8f13-f2eb74286740"]
+      "query": "How did the Supreme Court apply the doctrine of relation back and Section 14(1) of the Hindu Succession Act, 1956 to determine whether the alienations made by defendant No.1 were binding on the adopted son?",
+      "relevant_docs": ["019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215" ]
     },
     {
-      "query_id" : "q6",
-      "query": "Supreme Court upholding the order passed by the High Court",
-      "relevant_docs" : ["019ba112-5c65-7a74-bff0-180c7e0c7ea9", "019ba11d-8a7d-78e2-bd13-02bbc11260c8", "019ba0fd-3abb-7192-807b-977c12563703", "019ba0f9-3bbf-728c-b464-94436469da3d" ]
-    }
-    ,
-    {
-      "query_id" : "q7",
-      "query" : "The accused were charged under Sections 302, 323, and 324 read with Section 34 of the Indian Penal Code (IPC) for their alleged role ",
-      "relevant_docs" : ["019ba0fd-3abb-7192-807b-977c12563703"]
+      "query_id": "q6",
+      "query": "Which specific alienations were upheld and which were set aside by the Supreme Court, and what was the legal basis for treating the sale deed and gift deed differently in the final decision?",
+      "relevant_docs": ["019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215" ]
     },
     {
-      "query_id" : "q8",
-      "query" : "## Final Decision: The Supreme Court upheld the judgment of the ITAT and the High Court, holding that the reduction in share capital is indeed covered under section 2(47).",
-      "relevant_docs" : ["019ba0f9-3bbf-728c-b464-94436469da3d"]
+      "query_id": "q7",
+      "query": "How did the Supreme Court reconcile the doctrine of relation back with Section 14(1) of the Hindu Succession Act and Section 12(c) of the Hindu Adoptions and Maintenance Act to determine the binding nature of alienations made before and after adoption?",
+      "relevant_docs": ["019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215" ]
     },
     {
-      "query_id" : "q9",
-      "query" : "Can the High Court quash criminal proceedings, invoking extraordinary power under Article 226 ",
-      "relevant_docs" : ["019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f"]
+      "query_id": "q8",
+      "query": "Why did the Supreme Court uphold the validity of the sale deed dated 13.12.2007 while simultaneously allowing the appeal against the High Court’s reversal concerning the gift deed dated 27.08.2008, despite both being alienations by the same defendant?",
+      "relevant_docs": ["019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215" ]
     },
     {
-      "query_id" : "q10",
-      "query" : "Which statutory provision governed the validity of a complaint filed through a power-of-attorney holder in the cheque dishonour case AND which provision of the CrPC barred the Magistrate from taking cognizance of an offence under Section 186 IPC without a written complaint by a public servant?",
-      "relevant_docs" : ["019ba0cf-ddf3-762b-9992-28180bee7467", "019ba0cf-9e46-7622-8bb5-241e4f244cc9"]
-    },
-    {
-      "query_id" : "q11",
-      "query" : "Which Supreme Court precedent laid down the guidelines for maintainability of a complaint under Section 138 of the NI Act by an authorised representative AND which Supreme Court precedent was relied upon for quashing FIRs that do not disclose the essential ingredients of an offence under Sections 353/186 IPC?",
-      "relevant_docs" : ["019ba0cf-ddf3-762b-9992-28180bee7467", "019ba0cf-9e46-7622-8bb5-241e4f244cc9"]
-    },
-    {
-      "query_id" : "q12",
-      "query" : "Which court restored the quashed criminal complaint under the Negotiable Instruments Act to the trial Magistrate AND which court was held to have illegally taken cognizance of offences under Sections 353 and 186 IPC due to absence of statutory pre-conditions under Sections 195 and 155 of the CrPC?",
-      "relevant_docs" : ["019ba0cf-ddf3-762b-9992-28180bee7467", "019ba0cf-9e46-7622-8bb5-241e4f244cc9"]
-    },
-    {
-      "query_id" : "q13",
-      "query" : "How did the Supreme Court assess the legality of initiation of criminal proceedings in the cheque dishonour case through a power-of-attorney holder under Section 138 NI Act AND the legality of cognizance taken by the Magistrate in the FIR under Sections 353 and 186 IPC in the absence of statutory pre-conditions under the CrPC?",
-      "relevant_docs" : ["019ba0cf-ddf3-762b-9992-28180bee7467", "019ba0cf-9e46-7622-8bb5-241e4f244cc9"]
-    },
-    {
-      "query_id" : "q14",
-      "query" : "How did the Supreme Court distinguish between: 1. procedurally invalid prosecution despite existence of an FIR in the Section 353/186 IPC case, and 2. procedurally valid prosecution despite challenge to complainant’s authority in the Section 138 NI Act case,",
-      "relevant_docs" :  ["019ba0cf-ddf3-762b-9992-28180bee7467", "019ba0cf-9e46-7622-8bb5-241e4f244cc9"]
-    },
-    {
-      "query_id" : "q15",
-      "query" : "Explain the common procedural principle applied by the Court in: quashing the FIR and cognizance under Sections 353 and 186 IPC in and restoring the Section 138 NI Act complaint filed through a power-of-attorney holder",
-      "relevant_docs" : ["019ba0cf-ddf3-762b-9992-28180bee7467", "019ba0cf-9e46-7622-8bb5-241e4f244cc9"]
+      "query_id": "q9",
+      "query": "get the cases where judgement is related to physical or mentual disabilities of person",
+      "relevant_docs": ["019ba131-5ec0-772d-a948-7b88531751a1", "019ba131-1a03-73b8-b215-d404b35b3d5f", "019ba12e-2c8d-7edb-a258-fd7f9d418fc5"]
     }
   ]
 }

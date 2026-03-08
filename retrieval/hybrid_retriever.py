@@ -4,6 +4,7 @@ from typing import List, Dict
 from langchain_qdrant import QdrantVectorStore
 from vectorstore.set_up_collections import get_coarse_chunk_store, get_summary_store
 import traceback
+from ingestion import metadata 
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -16,11 +17,11 @@ def hybrid_document_retriever(
     summary_store : QdrantVectorStore,
     chunk_store : QdrantVectorStore,
     *,
-    top_k_summaries: int = 10,
-    top_k_chunks: int = 50,
-    final_top_k_docs: int = 5,
-    a: float = 0.7,
-    b: float = 0.3
+    top_k_summaries: int = 0,
+    top_k_chunks: int = 0,
+    final_top_k_docs: int = 0,
+    a: float = 0,
+    b: float = 0
 ):
     """
     Hybrid document-level retriever using:
@@ -49,7 +50,8 @@ def hybrid_document_retriever(
             doc_id = doc.metadata["summary_id"]
             summary_scores[doc_id] = score
             summary_text[doc_id] = doc.page_content 
-            summary_metadata[doc_id] = doc.metadata 
+            summary_metadata[doc_id] = doc.metadata
+
 
         # -----------------------------
         # 2. Query CHUNK collection
@@ -59,6 +61,7 @@ def hybrid_document_retriever(
             query,
             k=top_k_chunks
         )
+        print("Retrieved Chunks: ", len(chunk_results))
 
         # doc_id -> max_chunk_score
         chunk_scores: Dict[str, float] = defaultdict(float)
@@ -98,6 +101,7 @@ def hybrid_document_retriever(
         for doc_id in all_doc_ids:
             s_score = summary_scores.get(doc_id, 0.0)
             c_score = chunk_scores.get(doc_id, 0.0)
+            # print(f"Summary_score: {s_score} , Chunk Score: {c_score}")
     
             final_score = a * s_score + b * c_score
             final_doc_scores[doc_id] = final_score
@@ -116,7 +120,7 @@ def hybrid_document_retriever(
         # -----------------------------
         results = []
 
-        for doc_id, score in ranked_docs[:final_top_k_docs]:
+        for doc_id, score in ranked_docs:
             chunks_list = doc_id_to_chunks.get(doc_id, [])
             
             # sort chunks based on score descending
@@ -134,26 +138,28 @@ def hybrid_document_retriever(
                     break
                 final_limited_chunks.append(chunk_dict)
 
-            final_supporting_chunks = len(doc_id_to_chunks.get(doc_id, []))
+            final_supporting_chunks = len(doc_id_to_chunks.get(doc_id, [])) 
+
+            document_medatata = metadata.get_metadata_from_summary_id(doc_id)
 
             results.append({
                 "doc_id": doc_id,
                 "final_score": score,
-                "summary_text" : summary_text[doc_id],
+                "summary_text" : summary_text.get(doc_id, ""),
                 "summary_score": summary_scores.get(doc_id, 0.0),
                 "max_chunk_score": chunk_scores.get(doc_id, 0.0),
                 "chunks": final_limited_chunks,
                 "supporting_chunks" : final_supporting_chunks,
-                "year" : summary_metadata.get(doc_id, {}).get("year", ""),
-                "cnr" : summary_metadata.get(doc_id, {}).get("cnr", ""),
-                "case_id" : summary_metadata.get(doc_id, {}).get("case_id", ""),
-                "respondent" : summary_metadata.get(doc_id, {}).get("respondent", ""), 
-                "petitioner" : summary_metadata.get(doc_id, {}).get("petitioner", ""),
-                "judge" : summary_metadata.get(doc_id, {}).get("judge", ""),
-                "court" : summary_metadata.get(doc_id, {}).get("court", "")
+                "year" : document_medatata.get("year", ""),
+                "cnr" : document_medatata.get("cnr", ""),
+                "case_id" : document_medatata.get("case_id", ""),
+                "respondent" : document_medatata.get("respondent", ""), 
+                "petitioner" : document_medatata.get("petitioner", ""),
+                "judge" : document_medatata.get("judge", ""),
+                "court" : document_medatata.get("court", "")
             })
 
-        return results
+        return results[:final_top_k_docs]
 
     except Exception as e:
         print("ERROR DURING HYBRID RETRIEVAL:", str(e))
@@ -173,8 +179,8 @@ if(__name__ == "__main__"):
         top_k_summaries=10,
         top_k_chunks=50,
         final_top_k_docs=2,
-        a=0.7,
-        b=0.3
+        a=0.5,
+        b=0.5
     )
 
     # context = prompt.get_final_response_prompt(query, results)

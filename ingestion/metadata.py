@@ -35,7 +35,17 @@ def get_metadata_from_cnr(cnr_number):
     payload["year"] = str(payload["year"])  # Ensure year is string
 
     # print(payload)
-    return payload
+    return payload 
+
+def get_metadata_from_summary_id(summary_id):
+    mapping_df = pd.read_csv(os.path.join(NEW_DATA_FOLDER, SUMMARY_ID_TO_CNR_CSV))
+
+    # Change the NaN values in the dataframe to " "
+    mapping_df = mapping_df.fillna(" ")
+
+    cnr_number = mapping_df[mapping_df["summary_id"] == summary_id]["cnr"].item()
+
+    return get_metadata_from_cnr(cnr_number)
 
 if(__name__ == "__main__"):
     cnr_num = "ESCR010000022025"

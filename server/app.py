@@ -100,4 +100,3 @@ def serve_text(filename):
 
 if __name__ == '__main__':
     app.run(debug=True, port = 5000)
-    # serve_text("ESCR010000012025")

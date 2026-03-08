@@ -1,0 +1,196 @@
+{
+  "results": [
+    {
+      "query": "The case revolves around the acquisition of land ",
+      "relevant_docs_id": [
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303"
+      ],
+      "retrieved_docs_id": [
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303",
+        "019ba12e-74f5-7171-815b-73c1377c1e59",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba12c-9fb4-7b63-bef0-0f8182ba36fb",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba0fa-3bbb-7f22-9341-2d62ab1d47b6"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "cases against their parents relevant to property conflict",
+      "relevant_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c"
+      ],
+      "retrieved_docs_id": [
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba131-1a03-73b8-b215-d404b35b3d5f",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba0fd-3abb-7192-807b-977c12563703",
+        "019ba12e-74f5-7171-815b-73c1377c1e59",
+        "019ba131-e252-7334-b505-c44d8d7189e0"
+      ],
+      "precision_at_10": 0.4,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "The Supreme Court upheld the judgment of the High Court and dismissing the appeals of the  petitioners",
+      "relevant_docs_id": [
+        "019ba0f9-3bbf-728c-b464-94436469da3d",
+        "019ba12d-444f-73b3-8c02-1749cdd76317"
+      ],
+      "retrieved_docs_id": [
+        "019ba132-3b63-7859-8f8e-335e5b0e2d98",
+        "019ba112-5c65-7a74-bff0-180c7e0c7ea9",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba0f9-3bbf-728c-b464-94436469da3d",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba131-97be-7e74-b8c9-dbe3573122ba",
+        "019ba10e-4eb1-755c-8aef-c58ad9c57930",
+        "019ba12c-f4bb-7566-a43a-b2bef5652a37",
+        "019ba130-c8fa-7a11-9598-51648f5110db",
+        "019ba114-5279-701c-b88f-25fc4429fe22"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 0.5
+    },
+    {
+      "query": "Cases with citations of Janardhanam Prasad v. Ramdas",
+      "relevant_docs_id": [
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8"
+      ],
+      "retrieved_docs_id": [
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba131-5ec0-772d-a948-7b88531751a1",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba106-6444-7a2d-a9bd-6ae9ac8149f2",
+        "019ba0cd-a7c4-7c50-9b1d-c89b38d16f4f",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba12e-2c8d-7edb-a258-fd7f9d418fc5",
+        "019ba0cf-9e46-7622-8bb5-241e4f244cc9",
+        "019ba132-3b63-7859-8f8e-335e5b0e2d98",
+        "019ba12e-9edd-7ed7-b8f4-401c250744f4"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "How did the Supreme Court apply the doctrine of relation back and Section 14(1) of the Hindu Succession Act, 1956 to determine whether the alienations made by defendant No.1 were binding on the adopted son?",
+      "relevant_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215"
+      ],
+      "retrieved_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba0d1-5f7f-7714-8f68-7b07abc0f0d9",
+        "019ba131-1a03-73b8-b215-d404b35b3d5f",
+        "019ba12d-97c3-7b07-9f98-8368cb68131d",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba0fd-3abb-7192-807b-977c12563703"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Which specific alienations were upheld and which were set aside by the Supreme Court, and what was the legal basis for treating the sale deed and gift deed differently in the final decision?",
+      "relevant_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215"
+      ],
+      "retrieved_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba114-5279-701c-b88f-25fc4429fe22",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba0f9-3bbf-728c-b464-94436469da3d",
+        "019ba0d1-5f7f-7714-8f68-7b07abc0f0d9",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "How did the Supreme Court reconcile the doctrine of relation back with Section 14(1) of the Hindu Succession Act and Section 12(c) of the Hindu Adoptions and Maintenance Act to determine the binding nature of alienations made before and after adoption?",
+      "relevant_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215"
+      ],
+      "retrieved_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba0d1-5f7f-7714-8f68-7b07abc0f0d9",
+        "019ba12d-97c3-7b07-9f98-8368cb68131d",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba122-e277-7113-aced-4fcac60a537e",
+        "019ba131-1a03-73b8-b215-d404b35b3d5f",
+        "019ba0fd-3abb-7192-807b-977c12563703"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "Why did the Supreme Court uphold the validity of the sale deed dated 13.12.2007 while simultaneously allowing the appeal against the High Court’s reversal concerning the gift deed dated 27.08.2008, despite both being alienations by the same defendant?",
+      "relevant_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215"
+      ],
+      "retrieved_docs_id": [
+        "019ba0d0-26b7-7fdf-9bb0-8f4cf85f5215",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba12d-d434-7a45-b21b-3b85e6876359",
+        "019ba0d1-5f7f-7714-8f68-7b07abc0f0d9",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba12e-74f5-7171-815b-73c1377c1e59",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba0df-d815-7de5-ae52-77ee1b5c5303"
+      ],
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0
+    },
+    {
+      "query": "get the cases where judgement is related to physical or mentual disabilities of person",
+      "relevant_docs_id": [
+        "019ba131-5ec0-772d-a948-7b88531751a1",
+        "019ba131-1a03-73b8-b215-d404b35b3d5f",
+        "019ba12e-2c8d-7edb-a258-fd7f9d418fc5"
+      ],
+      "retrieved_docs_id": [
+        "019ba131-5ec0-772d-a948-7b88531751a1",
+        "019ba12e-2c8d-7edb-a258-fd7f9d418fc5",
+        "019ba131-1a03-73b8-b215-d404b35b3d5f",
+        "019ba0d4-95e3-78e9-9405-e249a4cceb36",
+        "019ba131-e252-7334-b505-c44d8d7189e0",
+        "019ba12a-dc75-7c4b-b90b-469116223a62",
+        "019ba102-e665-76dc-8ad7-cb863dfebc9c",
+        "019ba12e-9edd-7ed7-b8f4-401c250744f4",
+        "019ba119-8344-7f90-9d37-2329b3a82332",
+        "019ba11d-8a7d-78e2-bd13-02bbc11260c8"
+      ],
+      "precision_at_10": 0.3,
+      "recall_at_10": 1.0
+    },
+    {
+      "average_precision_at_10": 0.15555555555555556,
+      "average_recall_at_10": 0.9444444444444444,
+      "mean_reciprocal_rank": 0.8425925925925927,
+      "mean_normalized_dcg@10": 0.8626742358413989
+    }
+  ]
+}

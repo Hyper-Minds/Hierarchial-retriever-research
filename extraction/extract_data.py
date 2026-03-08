@@ -65,7 +65,7 @@ def extract_metadata():
 
     print(selected_df.head())
 
-    num_cases_to_process = 200
+    num_cases_to_process = 50 
 
     processed_cases = 0
     seen_cases = set()
@@ -105,7 +105,6 @@ def extract_metadata():
         with open(os.path.join(NEW_DATA_FOLDER, CNR_TO_PDF_PATH_CSV), "a", encoding = "utf-8") as cnr_to_path_csv:
             row_values = ['\"' + case_id + '\"', '\"' + pdf_path + '\"']
             cnr_to_path_csv.write(",".join(row_values) + "\n") 
-
 
         full_pdf_path = os.path.join(OLD_DATA_2025_PDF, pdf_path)
 
